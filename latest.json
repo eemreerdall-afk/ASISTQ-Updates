@@ -1,9 +1,9 @@
 {
   "latest": {
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.7/ASISTQ-Setup-2.1.0-alpha.7.exe",
     "notes": "Okunabilirlik: kalan soluk başlıklar ve koyu takvim etkinliklerinde beyaz yazı.",
-    "sha256": "4e2b3a4745315dbdc4cd22b466633c6c7b4cdd70de0b3660bf96adc1f4f4ac47",
-    "version": "2.1.0-alpha.7",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.7/ASISTQ-Setup-2.1.0-alpha.7.exe"
+    "sha256": "9d54196f64b07843c5d6f3bb3de8f807031f93f96c8099c1a030410120f0985f",
+    "version": "2.1.0-alpha.7"
   },
   "lastKnownGood": {
     "version": "2.0.1-alpha.2"

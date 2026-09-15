@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0-alpha.4",
-  "sha256": "53af972729bb0b7ec6ac110796755088ec6a4e616783022fc1c7abb5d38f6ae3",
-  "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.4/ASISTQ-Setup-2.1.0-alpha.4.exe",
-  "notes": "Doğrulanmış alpha.4 paketi ve güncelleme düzeltmeleri."
+  "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.5/ASISTQ-Setup-2.1.0-alpha.5.exe",
+  "sha256": "af7a272430beab240e59de3eb77a3bfa5f1d37428696f075b88d65b16f2e5e4e",
+  "version": "2.1.0-alpha.5",
+  "notes": "Global siyah/bordo kontrast ve güncelleme düzeltmeleri."
 }

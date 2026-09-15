@@ -1,0 +1,13 @@
+{
+  "latest": {
+    "version": "2.1.0-alpha.3",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.3/ASISTQ-Setup-2.1.0-alpha.3.exe",
+    "sha256": "PENDING_PUBLIC_RELEASE",
+    "notes": "ASISTQ Açık Bordo tema ve GitHub güncelleme kanalına geçiş."
+  },
+  "lastKnownGood": {
+    "version": "2.0.1-alpha.2",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.0.1-alpha.2/ASISTQ-Setup-2.0.1-alpha.2.exe",
+    "sha256": "cb4552f3fbd7e52d08cc8441a35c228e7f8a9970657c60733b5bcc37d26b1084"
+  }
+}

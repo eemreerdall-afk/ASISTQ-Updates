@@ -1,9 +1,9 @@
 {
   "latest": {
-    "sha256": "7692d67d371b56c6515cb510a4673a97e8ea7b00012ba9a0db8c83bf3c0d57c4",
-    "notes": "Renk/takvim okunabilirliği ve updater düzeltmeleri.",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.8/ASISTQ-Setup-2.1.0-alpha.8.exe",
-    "version": "2.1.0-alpha.8"
+    "version": "2.1.0-alpha.9",
+    "notes": "Son renk ve updater işlem düzeltmesi.",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.9/ASISTQ-Setup-2.1.0-alpha.9.exe",
+    "sha256": "f6109fbc0c4225ed534a7b99a62ad4d83676b1f336576b138111093acc0460a7"
   },
   "lastKnownGood": {
     "version": "2.0.1-alpha.2"

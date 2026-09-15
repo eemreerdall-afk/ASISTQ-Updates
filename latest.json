@@ -1,9 +1,9 @@
 {
   "latest": {
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.7/ASISTQ-Setup-2.1.0-alpha.7.exe",
-    "notes": "Okunabilirlik: kalan soluk başlıklar ve koyu takvim etkinliklerinde beyaz yazı.",
-    "sha256": "9d54196f64b07843c5d6f3bb3de8f807031f93f96c8099c1a030410120f0985f",
-    "version": "2.1.0-alpha.7"
+    "sha256": "7692d67d371b56c6515cb510a4673a97e8ea7b00012ba9a0db8c83bf3c0d57c4",
+    "notes": "Renk/takvim okunabilirliği ve updater düzeltmeleri.",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.8/ASISTQ-Setup-2.1.0-alpha.8.exe",
+    "version": "2.1.0-alpha.8"
   },
   "lastKnownGood": {
     "version": "2.0.1-alpha.2"

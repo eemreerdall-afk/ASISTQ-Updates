@@ -1,6 +1,11 @@
 {
-  "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.5/ASISTQ-Setup-2.1.0-alpha.5.exe",
-  "sha256": "af7a272430beab240e59de3eb77a3bfa5f1d37428696f075b88d65b16f2e5e4e",
-  "version": "2.1.0-alpha.5",
-  "notes": "Global siyah/bordo kontrast ve güncelleme düzeltmeleri."
+  "latest": {
+    "version": "2.1.0-alpha.5",
+    "notes": "Global siyah/bordo kontrast ve güncelleme düzeltmeleri.",
+    "sha256": "af7a272430beab240e59de3eb77a3bfa5f1d37428696f075b88d65b16f2e5e4e",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.5/ASISTQ-Setup-2.1.0-alpha.5.exe"
+  },
+  "lastKnownGood": {
+    "version": "2.0.1-alpha.2"
+  }
 }

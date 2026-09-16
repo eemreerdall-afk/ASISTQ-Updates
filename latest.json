@@ -1,11 +1,11 @@
 {
-  "lastKnownGood": {
-    "version": "2.1.0-alpha.27"
-  },
   "latest": {
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.28/ASISTQ-Setup-2.1.0-alpha.28.exe",
-    "sha256": "e839a67f40f2b76f5e45adfc983353de58eefef253792c72051ae0f58cc5415a",
-    "notes": "Bando Yoklama ve Bando Etkinliği / Çalışması bordo; takvim etkinlik isimleri krem",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.29/ASISTQ-Setup-2.1.0-alpha.29.exe",
+    "sha256": "22c3df24c8df58a08bc3908e5a9a0cd712349d5a5b9dd9f56c1be7b59f50e6d5",
+    "version": "2.1.0-alpha.29",
+    "notes": "Takvim öğrenci isimleri krem; Bando Yoklama başlığı bordo"
+  },
+  "lastKnownGood": {
     "version": "2.1.0-alpha.28"
   }
 }

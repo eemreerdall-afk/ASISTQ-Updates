@@ -1,9 +1,9 @@
 {
   "latest": {
-    "version": "2.1.0-alpha.11",
-    "notes": "Güvenli güncelleme testi",
-    "sha256": "1737a952786e4fbe1cd26eca51c97b15cc98553c72cbdb5baa8de48050a5708e",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.11/ASISTQ-Setup-2.1.0-alpha.11.exe"
+    "version": "2.1.0-alpha.12",
+    "sha256": "18dcc33c9e2a60701592d17a87972e61d1b211cb8b9c27d1282407ee95a222ae",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.12/ASISTQ-Setup-2.1.0-alpha.12.exe",
+    "notes": "Tema ve güncelleme düzeltmesi"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.10"

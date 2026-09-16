@@ -1,11 +1,11 @@
 {
   "lastKnownGood": {
-    "version": "2.1.0-alpha.15"
+    "version": "2.1.0-alpha.16"
   },
   "latest": {
-    "sha256": "ae64e00dbe11b5a74bbab2003418a40e8f9027bb4af2f3244ae7545dbe25ae81",
-    "notes": "Metin kontrastları düzeltildi",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.16/ASISTQ-Setup-2.1.0-alpha.16.exe",
-    "version": "2.1.0-alpha.16"
+    "sha256": "5b830758a50d32c07cfd4aec8fcab98affcda2095ab9fbf57f4d90a4d1360a84",
+    "version": "2.1.0-alpha.17",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.17/ASISTQ-Setup-2.1.0-alpha.17.exe",
+    "notes": "Soluk başlık renkleri kaynak seviyesinde düzeltildi"
   }
 }

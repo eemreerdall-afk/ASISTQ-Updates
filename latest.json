@@ -1,11 +1,11 @@
 {
   "latest": {
-    "notes": "Gri form etiketlerini ezen eski CSS kuralı düzeltildi; etiketler koyu siyah",
-    "sha256": "6f3f50584ccb959642c7d558d91495c6bd226941fd057ce224c249d98978f176",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.24/ASISTQ-Setup-2.1.0-alpha.24.exe",
-    "version": "2.1.0-alpha.24"
+    "notes": "Takvim renkli kutularındaki isim ve etkinlik yazıları ile alt renk açıklamaları krem",
+    "sha256": "e235613ff759becb0480dd39c14bda356c221cbf48538d79cac3225c95e5aa8b",
+    "version": "2.1.0-alpha.25",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.25/ASISTQ-Setup-2.1.0-alpha.25.exe"
   },
   "lastKnownGood": {
-    "version": "2.1.0-alpha.23"
+    "version": "2.1.0-alpha.24"
   }
 }

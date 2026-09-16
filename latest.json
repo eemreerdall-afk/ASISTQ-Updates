@@ -1,11 +1,11 @@
 {
   "lastKnownGood": {
-    "version": "2.1.0-alpha.18"
+    "version": "2.1.0-alpha.19"
   },
   "latest": {
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.19/ASISTQ-Setup-2.1.0-alpha.19.exe",
-    "notes": "Başlık ve form etiketleri bordo; renkli takvim kutularındaki yazılar krem",
-    "version": "2.1.0-alpha.19",
-    "sha256": "c203c4eb271cb08f7f5e08114a121994438db268a3095ca811b0dd4f4ad15be4"
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.20/ASISTQ-Setup-2.1.0-alpha.20.exe",
+    "notes": "Tema ilk kareden itibaren krem/bordo; eski lacivert kaynak renkleri kaldırıldı",
+    "version": "2.1.0-alpha.20",
+    "sha256": "f80c0a616da20fa8830814f6a579238d7ab47441999d7a9c8d82ac598fadfee4"
   }
 }

@@ -1,11 +1,11 @@
 {
-  "latest": {
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.21/ASISTQ-Setup-2.1.0-alpha.21.exe",
-    "sha256": "b7303350978d8cefa86cc6a5d657ae62f94410cfb913e4a5555afa9e0fb64caa",
-    "notes": "Ana ekran kontrast düzeltmeleri: özlü söz alanı, takvim ve aday yazıları okunur; etkinlik yazıları krem",
+  "lastKnownGood": {
     "version": "2.1.0-alpha.21"
   },
-  "lastKnownGood": {
-    "version": "2.1.0-alpha.20"
+  "latest": {
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.22/ASISTQ-Setup-2.1.0-alpha.22.exe",
+    "version": "2.1.0-alpha.22",
+    "notes": "Sınıflar ve Öğrenciler etiketleri bordo; takvim etkinlik yazıları krem",
+    "sha256": "c7a9fa1f9f32caf2a643e1213d6d7b892f7c6546a7940cff3581fe9b37fcb9c8"
   }
 }

@@ -1,11 +1,11 @@
 {
   "lastKnownGood": {
-    "version": "2.1.0-alpha.21"
+    "version": "2.1.0-alpha.22"
   },
   "latest": {
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.22/ASISTQ-Setup-2.1.0-alpha.22.exe",
-    "version": "2.1.0-alpha.22",
-    "notes": "Sınıflar ve Öğrenciler etiketleri bordo; takvim etkinlik yazıları krem",
-    "sha256": "c7a9fa1f9f32caf2a643e1213d6d7b892f7c6546a7940cff3581fe9b37fcb9c8"
+    "sha256": "4ea96ab46e592d8c7f7e191090ffc741146e342e1d6708adfb34eb87c78750f3",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.23/ASISTQ-Setup-2.1.0-alpha.23.exe",
+    "notes": "Form alan başlıkları ve etiketleri artık koyu siyah",
+    "version": "2.1.0-alpha.23"
   }
 }

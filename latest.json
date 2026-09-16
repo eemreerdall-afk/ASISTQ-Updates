@@ -1,11 +1,11 @@
 {
-  "lastKnownGood": {
-    "version": "2.1.0-alpha.22"
-  },
   "latest": {
-    "sha256": "4ea96ab46e592d8c7f7e191090ffc741146e342e1d6708adfb34eb87c78750f3",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.23/ASISTQ-Setup-2.1.0-alpha.23.exe",
-    "notes": "Form alan başlıkları ve etiketleri artık koyu siyah",
+    "notes": "Gri form etiketlerini ezen eski CSS kuralı düzeltildi; etiketler koyu siyah",
+    "sha256": "6f3f50584ccb959642c7d558d91495c6bd226941fd057ce224c249d98978f176",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.24/ASISTQ-Setup-2.1.0-alpha.24.exe",
+    "version": "2.1.0-alpha.24"
+  },
+  "lastKnownGood": {
     "version": "2.1.0-alpha.23"
   }
 }

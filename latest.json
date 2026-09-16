@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Takvimdeki renkli etkinlik kutularında öğrenci isimleri ve etkinlik açıklamaları krem",
-    "sha256": "fb15ef08e0f89737cd440662b4b486eb92eb73fdbd4a5a89231052e0704fb017",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.26/ASISTQ-Setup-2.1.0-alpha.26.exe",
-    "version": "2.1.0-alpha.26"
+    "version": "2.1.0-alpha.27",
+    "notes": "Kurtarma sürümü: alpha26 dinamik takvim müdahalesi kaldırıldı, alpha25 kararlı görünümü geri getirildi",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.27/ASISTQ-Setup-2.1.0-alpha.27.exe",
+    "sha256": "8324708cc3e7f26ffb7328b362802a8f57f6900c646191ad86dbe585686eeb92"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.25"

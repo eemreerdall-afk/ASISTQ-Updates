@@ -1,11 +1,11 @@
 {
   "latest": {
-    "version": "2.1.0-alpha.13",
-    "notes": "Krem ve koyu kahve yeni tema",
-    "sha256": "780f6b86f49379a1ef3c5ce4a2023c972591b7038dd40b5efcba7b65967a8b80",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.13/ASISTQ-Setup-2.1.0-alpha.13.exe"
+    "sha256": "6fe1e5a6bc407f01b022db19f9ae90649e8ccf73046a6218f4743fcc7e7b6987",
+    "version": "2.1.0-alpha.14",
+    "notes": "Referans görsel krem-kahve tema",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.14/ASISTQ-Setup-2.1.0-alpha.14.exe"
   },
   "lastKnownGood": {
-    "version": "2.1.0-alpha.10"
+    "version": "2.1.0-alpha.13"
   }
 }

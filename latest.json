@@ -1,11 +1,11 @@
 {
   "latest": {
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.29/ASISTQ-Setup-2.1.0-alpha.29.exe",
-    "sha256": "22c3df24c8df58a08bc3908e5a9a0cd712349d5a5b9dd9f56c1be7b59f50e6d5",
-    "version": "2.1.0-alpha.29",
-    "notes": "Takvim öğrenci isimleri krem; Bando Yoklama başlığı bordo"
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.30/ASISTQ-Setup-2.1.0-alpha.30.exe",
+    "notes": "Aylık geç kalma listesi eklendi; müziksel yetenek sonuç yazıları düzeltildi",
+    "version": "2.1.0-alpha.30",
+    "sha256": "e78683fb8573b37e010f2feed19edf67cd82acbbe3eeb2a9b81ece745afb80d2"
   },
   "lastKnownGood": {
-    "version": "2.1.0-alpha.28"
+    "version": "2.1.0-alpha.29"
   }
 }

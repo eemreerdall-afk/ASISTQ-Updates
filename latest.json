@@ -1,11 +1,11 @@
 {
   "lastKnownGood": {
-    "version": "2.1.0-alpha.14"
+    "version": "2.1.0-alpha.15"
   },
   "latest": {
-    "notes": "Renk sistemi sıfırdan yeniden yapılandırıldı",
-    "version": "2.1.0-alpha.15",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.15/ASISTQ-Setup-2.1.0-alpha.15.exe",
-    "sha256": "39d2be8f2f74d6c7bb4274bbd821ce7c4b0854c804be7510ec1cd083a9706382"
+    "sha256": "ae64e00dbe11b5a74bbab2003418a40e8f9027bb4af2f3244ae7545dbe25ae81",
+    "notes": "Metin kontrastları düzeltildi",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.16/ASISTQ-Setup-2.1.0-alpha.16.exe",
+    "version": "2.1.0-alpha.16"
   }
 }

@@ -1,11 +1,11 @@
 {
-  "latest": {
-    "version": "2.1.0-alpha.27",
-    "notes": "Kurtarma sürümü: alpha26 dinamik takvim müdahalesi kaldırıldı, alpha25 kararlı görünümü geri getirildi",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.27/ASISTQ-Setup-2.1.0-alpha.27.exe",
-    "sha256": "8324708cc3e7f26ffb7328b362802a8f57f6900c646191ad86dbe585686eeb92"
-  },
   "lastKnownGood": {
-    "version": "2.1.0-alpha.25"
+    "version": "2.1.0-alpha.27"
+  },
+  "latest": {
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.28/ASISTQ-Setup-2.1.0-alpha.28.exe",
+    "sha256": "e839a67f40f2b76f5e45adfc983353de58eefef253792c72051ae0f58cc5415a",
+    "notes": "Bando Yoklama ve Bando Etkinliği / Çalışması bordo; takvim etkinlik isimleri krem",
+    "version": "2.1.0-alpha.28"
   }
 }

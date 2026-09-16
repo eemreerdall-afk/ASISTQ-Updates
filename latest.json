@@ -1,11 +1,11 @@
 {
-  "lastKnownGood": {
-    "version": "2.1.0-alpha.19"
-  },
   "latest": {
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.20/ASISTQ-Setup-2.1.0-alpha.20.exe",
-    "notes": "Tema ilk kareden itibaren krem/bordo; eski lacivert kaynak renkleri kaldırıldı",
-    "version": "2.1.0-alpha.20",
-    "sha256": "f80c0a616da20fa8830814f6a579238d7ab47441999d7a9c8d82ac598fadfee4"
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.21/ASISTQ-Setup-2.1.0-alpha.21.exe",
+    "sha256": "b7303350978d8cefa86cc6a5d657ae62f94410cfb913e4a5555afa9e0fb64caa",
+    "notes": "Ana ekran kontrast düzeltmeleri: özlü söz alanı, takvim ve aday yazıları okunur; etkinlik yazıları krem",
+    "version": "2.1.0-alpha.21"
+  },
+  "lastKnownGood": {
+    "version": "2.1.0-alpha.20"
   }
 }

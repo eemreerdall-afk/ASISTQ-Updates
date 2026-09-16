@@ -1,11 +1,11 @@
 {
-  "latest": {
-    "sha256": "6fe1e5a6bc407f01b022db19f9ae90649e8ccf73046a6218f4743fcc7e7b6987",
-    "version": "2.1.0-alpha.14",
-    "notes": "Referans görsel krem-kahve tema",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.14/ASISTQ-Setup-2.1.0-alpha.14.exe"
-  },
   "lastKnownGood": {
-    "version": "2.1.0-alpha.13"
+    "version": "2.1.0-alpha.14"
+  },
+  "latest": {
+    "notes": "Renk sistemi sıfırdan yeniden yapılandırıldı",
+    "version": "2.1.0-alpha.15",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.15/ASISTQ-Setup-2.1.0-alpha.15.exe",
+    "sha256": "39d2be8f2f74d6c7bb4274bbd821ce7c4b0854c804be7510ec1cd083a9706382"
   }
 }

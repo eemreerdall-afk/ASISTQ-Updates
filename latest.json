@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Aylık Geç Kalma Listesi güvenli ve izole biçimde eklendi; yetenek sonuç kontrastı korunuyor",
-    "version": "2.1.0-alpha.32",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.32/ASISTQ-Setup-2.1.0-alpha.32.exe",
-    "sha256": "5a43a10e8055d21d161acf5d715832c81eb921faa184454f1e29c2fde546ffbb"
+    "notes": "Alpha.32 geri çekildi. Sağlam kurtarma sürümü Alpha.31 aktif.",
+    "version": "2.1.0-alpha.31",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.31/ASISTQ-Setup-2.1.0-alpha.31.exe",
+    "sha256": "55bec821d0c64fad15837a3cf9f6cab109e2c91e7ea877eeef8f853dce584aca"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.31"

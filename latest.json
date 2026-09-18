@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha40: Premium lacivert-mavi arayüz, 3B marka görünümü ve yeni Windows simgesi. Veriler ve yedekleme korunmuştur.",
-    "version": "2.1.0-alpha.40",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.40/Akademix-Setup-2.1.0-alpha.40.exe",
-    "sha256": "0edec68ccd05725dee5adcd79718d44f82d16634545fbc7a24085238445682ef"
+    "notes": "Alpha41: Premium lacivert-mavi arayüz, 3B marka görünümü ve yeni Windows simgesi. Veriler ve yedekleme korunmuştur.",
+    "version": "2.1.0-alpha.41",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.41/Akademix-Setup-2.1.0-alpha.41.exe",
+    "sha256": "e8f742ce6ce552f2a670b6990263a0b6e4377bacb67dddb28db28377525b1c5c"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

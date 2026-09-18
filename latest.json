@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha38: Akademix marka dönüşümü düzeltildi. Eski ASISTQ/MüzikAsist ana ekran marka öğeleri ve logo alanı yenilendi. Mevcut veriler ve yedekleme sistemi korunmuştur.",
-    "version": "2.1.0-alpha.38",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.38/Akademix-Setup-2.1.0-alpha.38.exe",
-    "sha256": "c59b945f098f5f91583415f47d182c9100aed7d285e709d56678ca7abed41647"
+    "notes": "Alpha39: Premium lacivert-mavi arayüz, 3B marka görünümü ve yeni Windows simgesi. Veriler ve yedekleme korunmuştur.",
+    "version": "2.1.0-alpha.39",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.39/Akademix-Setup-2.1.0-alpha.39.exe",
+    "sha256": "8f839204d833ccb1a65a5293dba34a02d65344d679143e0b02eab7823f4031e9"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

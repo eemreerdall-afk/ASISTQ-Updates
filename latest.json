@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha37: Akademix tam marka dönüşümü. Uygulama, masaüstü ve Başlat menüsü adları Akademix olarak güncellendi; ana ekran genel eğitim yapısına dönüştürüldü. Mevcut veriler ve yedekleme sistemi korunmuştur.",
-    "version": "2.1.0-alpha.37",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.37/Akademix-Setup-2.1.0-alpha.37.exe",
-    "sha256": "b1b9381a351a8a6c558d918029dbfa438bcf81ffa3adcfb34e8352b52f1e4851"
+    "notes": "Alpha38: Akademix marka dönüşümü düzeltildi. Eski ASISTQ/MüzikAsist ana ekran marka öğeleri ve logo alanı yenilendi. Mevcut veriler ve yedekleme sistemi korunmuştur.",
+    "version": "2.1.0-alpha.38",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.38/Akademix-Setup-2.1.0-alpha.38.exe",
+    "sha256": "c59b945f098f5f91583415f47d182c9100aed7d285e709d56678ca7abed41647"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

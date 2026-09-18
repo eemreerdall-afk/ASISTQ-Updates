@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Aylık Geç Kalma Listesi eklendi; Malzeme Takibi adı Malzeme ve Geç Kalma olarak güncellendi. Yetenek değerlendirme sonuç kutusu metin kontrastı düzeltildi.",
-    "version": "2.1.0-alpha.34",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.34/ASISTQ-Setup-2.1.0-alpha.34.exe",
-    "sha256": "9edaf1b20ac421581d8eda9a9e68937fc74604e641d090de4988475c4d2cb8f2"
+    "notes": "Alpha35: yerel yedekleme ve geri yükleme sistemi.",
+    "version": "2.1.0-alpha.35",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.35/ASISTQ-Setup-2.1.0-alpha.35.exe",
+    "sha256": "80df0ba8d4ea90617e583bc970dbd411d6b0662001eb719f9bf6d2b63a75aefb"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha36: Akademix marka ve logo tasarımı. Alpha35 yedekleme, geri yükleme ve mevcut kullanıcı verileri korunmuştur.",
-    "version": "2.1.0-alpha.36",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.36/ASISTQ-Setup-2.1.0-alpha.36.exe",
-    "sha256": "9a6f399a93d7176b9d49cef35600114ec1e0a2f85dbb18398141487ff0ca0c73"
+    "notes": "Alpha37: Akademix tam marka dönüşümü. Uygulama, masaüstü ve Başlat menüsü adları Akademix olarak güncellendi; ana ekran genel eğitim yapısına dönüştürüldü. Mevcut veriler ve yedekleme sistemi korunmuştur.",
+    "version": "2.1.0-alpha.37",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.37/Akademix-Setup-2.1.0-alpha.37.exe",
+    "sha256": "b1b9381a351a8a6c558d918029dbfa438bcf81ffa3adcfb34e8352b52f1e4851"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

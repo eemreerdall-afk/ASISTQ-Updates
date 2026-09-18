@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha35: yerel yedekleme ve geri yükleme sistemi.",
-    "version": "2.1.0-alpha.35",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.35/ASISTQ-Setup-2.1.0-alpha.35.exe",
-    "sha256": "80df0ba8d4ea90617e583bc970dbd411d6b0662001eb719f9bf6d2b63a75aefb"
+    "notes": "Alpha36: Akademix marka ve logo tasarımı. Alpha35 yedekleme, geri yükleme ve mevcut kullanıcı verileri korunmuştur.",
+    "version": "2.1.0-alpha.36",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.36/ASISTQ-Setup-2.1.0-alpha.36.exe",
+    "sha256": "9a6f399a93d7176b9d49cef35600114ec1e0a2f85dbb18398141487ff0ca0c73"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

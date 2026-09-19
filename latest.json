@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha44: Premium lacivert-mavi arayüz, 3B marka görünümü ve yeni Windows simgesi. Veriler ve yedekleme korunmuştur.",
-    "version": "2.1.0-alpha.44",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.44/Akademix-Setup-2.1.0-alpha.44.exe",
-    "sha256": "38067a9520f25d4903549126cdb1a38b908205bf53d5647e9210ab590d505023"
+    "notes": "Alpha45: Premium koyu cam arayüz ve yeni Akademix marka görünümü.",
+    "version": "2.1.0-alpha.45",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.45/Akademix-Setup-2.1.0-alpha.45.exe",
+    "sha256": "d9061c4a6ba54f49aa96e0995dca7e97dcb5ab0d6e21e427cd7236eba7f41a95"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

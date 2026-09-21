@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha48: arayüz ve tıklama hotfix; merkezi marka/modül altyapısı.",
-    "version": "2.1.0-alpha.48",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.48/Akademix-Setup-2.1.0-alpha.48.exe",
-    "sha256": "bb376eb74b6682deebff57aaba559280aa349542e5e297ac167d59f17deeaeb5"
+    "notes": "Alpha49: Alpha46 panel kurtarma; tam genişlik ve tıklama doğrulandı.",
+    "version": "2.1.0-alpha.49",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.49/Akademix-Setup-2.1.0-alpha.49.exe",
+    "sha256": "099bb2e5df18c8f64597c99e4fa142dffe6ff36efd1286b99b264c28ca820eb2"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

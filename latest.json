@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha46: Premium koyu cam arayüz ve yeni Akademix marka görünümü.",
-    "version": "2.1.0-alpha.46",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.46/Akademix-Setup-2.1.0-alpha.46.exe",
-    "sha256": "2acffe2a0d06c0f2d2281e3239453edf35ab8faf137a23a69cbc3eb50b915d52"
+    "notes": "Alpha47: merkezi marka, tema ve modül altyapısı.",
+    "version": "2.1.0-alpha.47",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.47/Akademix-Setup-2.1.0-alpha.47.exe",
+    "sha256": "b22feccf017d2d89b4fe152205862a45ca2056d994ae229ae018aea0235d8a1a"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.34"

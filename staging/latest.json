@@ -1,13 +1,13 @@
 {
   "latest": {
-    "notes": "Alpha53 staging: menü ve kayıt işlemlerinde gereksiz tam ekran yenilemeleri kaldırıldı; 25 öğrencilik yetenek ve malzeme kayıtları hızlandırıldı; değişmeyen bulut senkronunda gereksiz arayüz yenilemesi önlendi.",
-    "version": "2.1.0-alpha.53",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.53-staging/Akademix-Setup-2.1.0-alpha.53.exe",
-    "sha256": "9c25af62c7b1750ff47cad8a15401a7d2141495de137b93fdb225e97e2822134"
+    "notes": "Staging channel initialized. Alpha49 remains the public recovery release.",
+    "version": "2.1.0-alpha.49",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.49/Akademix-Setup-2.1.0-alpha.49.exe",
+    "sha256": "099bb2e5df18c8f64597c99e4fa142dffe6ff36efd1286b99b264c28ca820eb2"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",
     "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.49/Akademix-Setup-2.1.0-alpha.49.exe",
     "sha256": "099bb2e5df18c8f64597c99e4fa142dffe6ff36efd1286b99b264c28ca820eb2"
   }
-}\n
+}

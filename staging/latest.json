@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha54 staging: malzeme listesi sınıf kapsamı ayrıştırıldı; boş aktif dersler otomatik Getirmedi kaydediliyor; geç kalma ekleme akışı sağlamlaştırıldı.",
-    "version": "2.1.0-alpha.54",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.54-staging/Akademix-Setup-2.1.0-alpha.54.exe",
-    "sha256": "930485aeb76d8ed81d5c179a1c7aab9d14ccc64aad075c8709e04fc1f59b0f72"
+    "notes": "Alpha55 staging: ana sayfa hız ve yerleşim düzeni; sınıf ve öğrenci yönetimi birleşimi; malzeme ve geç kalma tek listede; takvim, başkan ve öğrenci merkezi etkileşimleri.",
+    "version": "2.1.0-alpha.55",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.55-staging/Akademix-Setup-2.1.0-alpha.55.exe",
+    "sha256": "f7b3e2f87db571a50b9080d53ec7ef86aca05a6dd90904d50c623ad96de2b994"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

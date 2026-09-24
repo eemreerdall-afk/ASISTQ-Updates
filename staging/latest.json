@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha56 staging: ana sayfada sağ aday kartları kısaltıldı, yinelenen Akıllı Uyarılar kaldırıldı, takvim çevresindeki boşluk azaltıldı.",
-    "version": "2.1.0-alpha.56",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.56-staging/Akademix-Setup-2.1.0-alpha.56.exe",
-    "sha256": "2cdceb86840bf3c0b4feccc5eb79c559fd171476a37c50740d57045a8b1b0f3d"
+    "notes": "Alpha58 staging: yönetici paneli ayrı sol menüde; bulut işlemleri Veri ve Güncelleme merkezine taşındı;; yerel veriler açılışta hemen gösterilir.",
+    "version": "2.1.0-alpha.58",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.58-staging/Akademix-Setup-2.1.0-alpha.58.exe",
+    "sha256": "3f760b6c2841c3245acf04d3f8f66977513a628311d247afad7b28ce8a6f62e9"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

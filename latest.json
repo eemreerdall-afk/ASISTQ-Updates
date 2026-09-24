@@ -1,11 +1,14 @@
 {
   "latest": {
+    "notes": "Akademix Alpha50: Yönetici panelinde branş ve öğretmen seçimi, salt okunur kayıt durumu ve PC sürüm kontrolü.",
+    "version": "2.1.0-alpha.50",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.50/Akademix-Setup-2.1.0-alpha.50.exe",
+    "sha256": "88a432243a3d51f0e944b0b26c8ee91fed32c6c4bfcf739e02e5a0b0ac116986"
+  },
+  "lastKnownGood": {
     "notes": "Alpha49: Alpha46 panel kurtarma; tam genişlik ve tıklama doğrulandı.",
     "version": "2.1.0-alpha.49",
     "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.49/Akademix-Setup-2.1.0-alpha.49.exe",
     "sha256": "099bb2e5df18c8f64597c99e4fa142dffe6ff36efd1286b99b264c28ca820eb2"
-  },
-  "lastKnownGood": {
-    "version": "2.1.0-alpha.34"
   }
 }

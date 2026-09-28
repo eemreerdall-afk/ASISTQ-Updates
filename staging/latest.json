@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha61 staging: etkinlik raporu özeti düzeltilir; tarih tekrarı kaldırılır, şarkıları yazılır ve elle düzenlenen metin korunur.",
-    "version": "2.1.0-alpha.61",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.61-staging/Akademix-Setup-2.1.0-alpha.61.exe",
-    "sha256": "e0cdb9565f22f7e137faa19b79adfdc613c2979a83652579e158dad394e57e60"
+    "notes": "Alpha62 staging: Etkinlik raporunda beyaz zemin, siyah yazı ve kırmızı başlık; PDF önizlemelerinde Yazdır ve İndir seçenekleri.",
+    "version": "2.1.0-alpha.62",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.62-staging/Akademix-Setup-2.1.0-alpha.62.exe",
+    "sha256": "7cf9b186a964a7ee82866dcdfa2698911574776ddcc55a057c046ebe1a2d615b"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha62 staging: Etkinlik raporunda beyaz zemin, siyah yazı ve kırmızı başlık; PDF önizlemelerinde Yazdır ve İndir seçenekleri.",
-    "version": "2.1.0-alpha.62",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.62-staging/Akademix-Setup-2.1.0-alpha.62.exe",
-    "sha256": "7cf9b186a964a7ee82866dcdfa2698911574776ddcc55a057c046ebe1a2d615b"
+    "notes": "Alpha63 staging: PDF İndir düğmesi konum seçtiren Kaydet penceresini açar; etkinlik raporu A4 beyaz sayfaya uyarlanır.",
+    "version": "2.1.0-alpha.63",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.63-staging/Akademix-Setup-2.1.0-alpha.63.exe",
+    "sha256": "69ec5b3c8a59356e5cd244d22e207349efed05a9c4820bd220ad009763727635"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

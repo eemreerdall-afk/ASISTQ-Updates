@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha67 staging: eski indirilen kurulum dosyalarını güvenle temizle; derleme çıktısının birikmesini önle.",
-    "version": "2.1.0-alpha.67",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.67-staging/Akademix-Setup-2.1.0-alpha.67.exe",
-    "sha256": "767a89f6df4fcb0d24c4afa38abc52277f61c765eb2b95c97a37055b28c3ea0a"
+    "notes": "Alpha68 staging: sunucu adayları, etkinlik sunuculuğu, genel yetenek filtreleri ve turlu ses yarışması; karma sahne takvimi, okul bazlı final, PDF ve karne.",
+    "version": "2.1.0-alpha.68",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.68-staging/Akademix-Setup-2.1.0-alpha.68.exe",
+    "sha256": "6dd2ae8e8ecbbd4ce68d098a98536bbcb394036ab93be61e145aa11b25b6d3e3"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

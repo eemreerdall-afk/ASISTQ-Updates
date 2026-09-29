@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha68 staging: sunucu adayları, etkinlik sunuculuğu, genel yetenek filtreleri ve turlu ses yarışması; karma sahne takvimi, okul bazlı final, PDF ve karne.",
-    "version": "2.1.0-alpha.68",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.68-staging/Akademix-Setup-2.1.0-alpha.68.exe",
-    "sha256": "6dd2ae8e8ecbbd4ce68d098a98536bbcb394036ab93be61e145aa11b25b6d3e3"
+    "notes": "Alpha69 staging: yarışma sahne tarihlerini genel takvimde otomatik göster; tarih düzenleme ve iptalde takvimi eşitle; takvimden yarışmaya aç.",
+    "version": "2.1.0-alpha.69",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.69-staging/Akademix-Setup-2.1.0-alpha.69.exe",
+    "sha256": "4d3e7c91f925d1d3664a15664d60460cff0489e0c844abba0c9323b8f59fde4f"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

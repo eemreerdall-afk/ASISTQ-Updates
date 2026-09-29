@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha63 staging: PDF İndir düğmesi konum seçtiren Kaydet penceresini açar; etkinlik raporu A4 beyaz sayfaya uyarlanır.",
-    "version": "2.1.0-alpha.63",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.63-staging/Akademix-Setup-2.1.0-alpha.63.exe",
-    "sha256": "69ec5b3c8a59356e5cd244d22e207349efed05a9c4820bd220ad009763727635"
+    "notes": "Alpha64 staging: kayıtlı etkinlikler ve takvimdeki etkinlikler için Etkinlik Formu / PDF erişimi.",
+    "version": "2.1.0-alpha.64",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.64-staging/Akademix-Setup-2.1.0-alpha.64.exe",
+    "sha256": "d4ed50198727d98b6b772f4cba3cfa607f009a5b8c5339d9ed693d16b98e3fb3"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

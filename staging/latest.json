@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha66 staging: takvim etkinliğini düzenle, mevcut katılımcıları koruyarak yeni sınıf ve şube ekle.",
-    "version": "2.1.0-alpha.66",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.66-staging/Akademix-Setup-2.1.0-alpha.66.exe",
-    "sha256": "4e5b3bdc411bb11f83eff2a39451cd92c662cd517b2360331df3863b94d1e3e0"
+    "notes": "Alpha67 staging: eski indirilen kurulum dosyalarını güvenle temizle; derleme çıktısının birikmesini önle.",
+    "version": "2.1.0-alpha.67",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.67-staging/Akademix-Setup-2.1.0-alpha.67.exe",
+    "sha256": "767a89f6df4fcb0d24c4afa38abc52277f61c765eb2b95c97a37055b28c3ea0a"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha65 staging: kayıtlı etkinlik ve takvim Etkinlik Formu / PDF düğmesi raporu açar.",
-    "version": "2.1.0-alpha.65",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.65-staging/Akademix-Setup-2.1.0-alpha.65.exe",
-    "sha256": "7cfa93d2c9739d8495f05659c639419937ef82d65042f9047749f31612add739"
+    "notes": "Alpha66 staging: takvim etkinliğini düzenle, mevcut katılımcıları koruyarak yeni sınıf ve şube ekle.",
+    "version": "2.1.0-alpha.66",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.66-staging/Akademix-Setup-2.1.0-alpha.66.exe",
+    "sha256": "4e5b3bdc411bb11f83eff2a39451cd92c662cd517b2360331df3863b94d1e3e0"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha70 staging: sade şube notlandırma, otomatik karne takibiyle 80+20 veya 60+40 ölçeği, hesap dökümü, sabit değerlendirme kaydı, resmi yatay A4 PDF ve ölçeğe uygun Excel.",
-    "version": "2.1.0-alpha.70",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.70-staging/Akademix-Setup-2.1.0-alpha.70.exe",
-    "sha256": "0effdb5fd4d61a2beedf7ed21a600abdd020c740f13bf96f9fb09c9d0a6cfc72"
+    "notes": "Alpha71 staging: beş kıstas başlığını düzenle ve tüm şubelere, öğrenci karnelerine, PDF/Excel çıktılarına kaydet; mevcut puanları ve hesap kayıtlarını koru.",
+    "version": "2.1.0-alpha.71",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.71-staging/Akademix-Setup-2.1.0-alpha.71.exe",
+    "sha256": "81652d3a4935f31039c2ec1136d61aa46b3614c939a3fb3caa75ed0110ddf116"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

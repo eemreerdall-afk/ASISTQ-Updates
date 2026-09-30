@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha69 staging: yarışma sahne tarihlerini genel takvimde otomatik göster; tarih düzenleme ve iptalde takvimi eşitle; takvimden yarışmaya aç.",
-    "version": "2.1.0-alpha.69",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.69-staging/Akademix-Setup-2.1.0-alpha.69.exe",
-    "sha256": "4d3e7c91f925d1d3664a15664d60460cff0489e0c844abba0c9323b8f59fde4f"
+    "notes": "Alpha70 staging: sade şube notlandırma, otomatik karne takibiyle 80+20 veya 60+40 ölçeği, hesap dökümü, sabit değerlendirme kaydı, resmi yatay A4 PDF ve ölçeğe uygun Excel.",
+    "version": "2.1.0-alpha.70",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.70-staging/Akademix-Setup-2.1.0-alpha.70.exe",
+    "sha256": "0effdb5fd4d61a2beedf7ed21a600abdd020c740f13bf96f9fb09c9d0a6cfc72"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

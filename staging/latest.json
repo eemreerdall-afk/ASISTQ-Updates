@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha73: Öğretmene özel Görüşme ve Talep Kayıtları; muhatap, konu, tarih, durum, açıklama ve takip; korunan düzenleme geçmişi; tekli/seçili/toplu PDF; mobil ile güvenli ortak kayıt eşitlemesi.",
-    "version": "2.1.0-alpha.73",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.73-staging/Akademix-Setup-2.1.0-alpha.73.exe",
-    "sha256": "4abf75a53a3261b8e0079fc62691347112280ec28bb50ec67f279bb2edfc2a48"
+    "notes": "Alpha74: Kaydırılabilir sınıf/şube bilgili isim listeleri; öğretmen notlarına açılıp kapanabilen Karnede göster anahtarı; Okul Grupları, kayıtlı/manuel üyeler ve öğrenci oluşturma; takvimde grup seçimi, karne bağlantısı ve tekli/toplu üye PDF.",
+    "version": "2.1.0-alpha.74",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.74-staging/Akademix-Setup-2.1.0-alpha.74.exe",
+    "sha256": "f918f0ccff9f344d9b9f7434c1df5627b971fff100be91f2c76d3b5b8eca9142"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

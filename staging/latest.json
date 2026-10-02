@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha72: X ile güvenli kapanış, sınırlı bulut bekleyişi ve takılan işlemi yeniden deneme; yazılabilir uygulama içi öneri listeleri ve iletişim kutusu sonrası odak düzeltmesi; ayrı ortaokul/lise müdürleri ve sınıfa uygun resmi PDF imzaları; kişisel selamlama.",
-    "version": "2.1.0-alpha.72",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.72-staging/Akademix-Setup-2.1.0-alpha.72.exe",
-    "sha256": "4dda1fb962df954019a97f360a88a26be2edb620a2b8a39706e46e7f8b9ee2aa"
+    "notes": "Alpha73: Öğretmene özel Görüşme ve Talep Kayıtları; muhatap, konu, tarih, durum, açıklama ve takip; korunan düzenleme geçmişi; tekli/seçili/toplu PDF; mobil ile güvenli ortak kayıt eşitlemesi.",
+    "version": "2.1.0-alpha.73",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.73-staging/Akademix-Setup-2.1.0-alpha.73.exe",
+    "sha256": "4abf75a53a3261b8e0079fc62691347112280ec28bb50ec67f279bb2edfc2a48"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

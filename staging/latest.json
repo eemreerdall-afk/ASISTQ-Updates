@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha71 staging: beş kıstas başlığını düzenle ve tüm şubelere, öğrenci karnelerine, PDF/Excel çıktılarına kaydet; mevcut puanları ve hesap kayıtlarını koru.",
-    "version": "2.1.0-alpha.71",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.71-staging/Akademix-Setup-2.1.0-alpha.71.exe",
-    "sha256": "81652d3a4935f31039c2ec1136d61aa46b3614c939a3fb3caa75ed0110ddf116"
+    "notes": "Alpha72: X ile güvenli kapanış, sınırlı bulut bekleyişi ve takılan işlemi yeniden deneme; yazılabilir uygulama içi öneri listeleri ve iletişim kutusu sonrası odak düzeltmesi; ayrı ortaokul/lise müdürleri ve sınıfa uygun resmi PDF imzaları; kişisel selamlama.",
+    "version": "2.1.0-alpha.72",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.72-staging/Akademix-Setup-2.1.0-alpha.72.exe",
+    "sha256": "4dda1fb962df954019a97f360a88a26be2edb620a2b8a39706e46e7f8b9ee2aa"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

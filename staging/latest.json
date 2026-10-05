@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha74: Kaydırılabilir sınıf/şube bilgili isim listeleri; öğretmen notlarına açılıp kapanabilen Karnede göster anahtarı; Okul Grupları, kayıtlı/manuel üyeler ve öğrenci oluşturma; takvimde grup seçimi, karne bağlantısı ve tekli/toplu üye PDF.",
-    "version": "2.1.0-alpha.74",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.74-staging/Akademix-Setup-2.1.0-alpha.74.exe",
-    "sha256": "f918f0ccff9f344d9b9f7434c1df5627b971fff100be91f2c76d3b5b8eca9142"
+    "notes": "Alpha75: Mobil ile ortak Sınıf Araçları; sayaçlı katılım ve puan katkısı önerisi; koşullu grup/eş oluşturma, kayıt ve PDF; tarih aralıklı gelişim grafiği; önizlemeli toplu görev düzenleme ve güvenli geri alma; etkinlikte malzeme, kıyafet ve kopyalanabilir hazırlık notları. Mevcut kayıtlar ve Alpha49 kurtarma sürümü korunur.",
+    "version": "2.1.0-alpha.75",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.75-staging/Akademix-Setup-2.1.0-alpha.75.exe",
+    "sha256": "595737dc302e1db29046b9ce84f732ddc6dccaa0ffad753e443dbf9512409eb6"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha75: Mobil ile ortak Sınıf Araçları; sayaçlı katılım ve puan katkısı önerisi; koşullu grup/eş oluşturma, kayıt ve PDF; tarih aralıklı gelişim grafiği; önizlemeli toplu görev düzenleme ve güvenli geri alma; etkinlikte malzeme, kıyafet ve kopyalanabilir hazırlık notları. Mevcut kayıtlar ve Alpha49 kurtarma sürümü korunur.",
-    "version": "2.1.0-alpha.75",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.75-staging/Akademix-Setup-2.1.0-alpha.75.exe",
-    "sha256": "595737dc302e1db29046b9ce84f732ddc6dccaa0ffad753e443dbf9512409eb6"
+    "notes": "Alpha76: Sözlü soru takibi Malzeme ve Geç Kalma ekranında; sınıf/öğrenci arama, doğrudan doğru-yanlış sayacı ve son dokunuşu geri alma. Öğrenci merkezinde ve karnede puan gerekçeleri. Takvim ve Etkinlikler ortak kayıtları, ana sayfada ay/hafta geçişi, eğitimsel etkinlik raporları. Öğretmen puanları, seçilen dağılım, mevcut veriler ve Alpha49 korunur.",
+    "version": "2.1.0-alpha.76",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.76-staging/Akademix-Setup-2.1.0-alpha.76.exe",
+    "sha256": "b895d74ab05fddd7c1579b2b72ca2eefbdc1aee10decc5dbfba1435d77e42f1d"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

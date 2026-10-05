@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha77: Sözlü soru takibi Malzeme ve Geç Kalma ekranında; sınıf/öğrenci arama, doğrudan doğru-yanlış sayacı ve son dokunuşu geri alma. Öğrenci merkezinde ve karnede puan gerekçeleri. Takvim ve Etkinlikler ortak kayıtları, ana sayfada ay/hafta geçişi, eğitimsel etkinlik raporları. Öğretmen puanları, seçilen dağılım, mevcut veriler ve Alpha49 korunur.",
-    "version": "2.1.0-alpha.77",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.77-staging/Akademix-Setup-2.1.0-alpha.77.exe",
-    "sha256": "9c4ed6e0faaaf6828616c793012195146721febd5e9d82a957453a265d8703b6"
+    "notes": "Alpha78: Etkinlikler gün, ay, takvim yılı, eğitim yılı, tarih aralığı ve Tümü ile süzülür. Ayrıntılar dokununca açılır; listeler 20 kayıtlık sayfalarla gösterilir. Mevcut kayıtlar, not algoritması, takvim bağlantısı ve Alpha49 kurtarma sürümü korunur.",
+    "version": "2.1.0-alpha.78",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.78-staging/Akademix-Setup-2.1.0-alpha.78.exe",
+    "sha256": "bf0058ec1cf4ee1f1cdf780fd2d104d354677c86db4d6e3ed23fb248513dcdae"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

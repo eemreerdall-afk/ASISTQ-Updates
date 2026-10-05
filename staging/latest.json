@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha76: Sözlü soru takibi Malzeme ve Geç Kalma ekranında; sınıf/öğrenci arama, doğrudan doğru-yanlış sayacı ve son dokunuşu geri alma. Öğrenci merkezinde ve karnede puan gerekçeleri. Takvim ve Etkinlikler ortak kayıtları, ana sayfada ay/hafta geçişi, eğitimsel etkinlik raporları. Öğretmen puanları, seçilen dağılım, mevcut veriler ve Alpha49 korunur.",
-    "version": "2.1.0-alpha.76",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.76-staging/Akademix-Setup-2.1.0-alpha.76.exe",
-    "sha256": "b895d74ab05fddd7c1579b2b72ca2eefbdc1aee10decc5dbfba1435d77e42f1d"
+    "notes": "Alpha77: Sözlü soru takibi Malzeme ve Geç Kalma ekranında; sınıf/öğrenci arama, doğrudan doğru-yanlış sayacı ve son dokunuşu geri alma. Öğrenci merkezinde ve karnede puan gerekçeleri. Takvim ve Etkinlikler ortak kayıtları, ana sayfada ay/hafta geçişi, eğitimsel etkinlik raporları. Öğretmen puanları, seçilen dağılım, mevcut veriler ve Alpha49 korunur.",
+    "version": "2.1.0-alpha.77",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.77-staging/Akademix-Setup-2.1.0-alpha.77.exe",
+    "sha256": "9c4ed6e0faaaf6828616c793012195146721febd5e9d82a957453a265d8703b6"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

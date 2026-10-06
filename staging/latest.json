@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha78: Etkinlikler gün, ay, takvim yılı, eğitim yılı, tarih aralığı ve Tümü ile süzülür. Ayrıntılar dokununca açılır; listeler 20 kayıtlık sayfalarla gösterilir. Mevcut kayıtlar, not algoritması, takvim bağlantısı ve Alpha49 kurtarma sürümü korunur.",
-    "version": "2.1.0-alpha.78",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.78-staging/Akademix-Setup-2.1.0-alpha.78.exe",
-    "sha256": "bf0058ec1cf4ee1f1cdf780fd2d104d354677c86db4d6e3ed23fb248513dcdae"
+    "notes": "Alpha79: Güncel kaynaklar tek düzen içinde toplandı; eski yama zinciri kaldırıldı. Ana ekrana büyüteçli yerel yardımcı eklendi: öğrenci bulma, sınıf listesi/sayısı, rapor ve ekran kısayolları. Başlık gerçek paket sürümünü gösterir. Mevcut veri/yedek uyumluluğu korunur.",
+    "version": "2.1.0-alpha.79",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.79-staging/Akademix-Setup-2.1.0-alpha.79.exe",
+    "sha256": "c89e2893f1910ccf9baf200447624950e063be4c0fb5a344757aba833c5863d8"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

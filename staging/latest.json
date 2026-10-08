@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha79: Güncel kaynaklar tek düzen içinde toplandı; eski yama zinciri kaldırıldı. Ana ekrana büyüteçli yerel yardımcı eklendi: öğrenci bulma, sınıf listesi/sayısı, rapor ve ekran kısayolları. Başlık gerçek paket sürümünü gösterir. Mevcut veri/yedek uyumluluğu korunur.",
-    "version": "2.1.0-alpha.79",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.79-staging/Akademix-Setup-2.1.0-alpha.79.exe",
-    "sha256": "c89e2893f1910ccf9baf200447624950e063be4c0fb5a344757aba833c5863d8"
+    "notes": "Alpha80: Bando öğrenci/enstrüman listesi ve yoklama çıktısı sınıf, şube ve öğrenci adına göre sıralanır: 9/A, 9/B, ardından 10/A, 10/B. Tüm/ortaokul/lise filtreleri korunur; kayıtlar değiştirilmez.",
+    "version": "2.1.0-alpha.80",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.80-staging/Akademix-Setup-2.1.0-alpha.80.exe",
+    "sha256": "199a46a77259e783d4826a3305f1aa90cded63d095c629ad3f741d68f01ac3d5"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha80: Bando öğrenci/enstrüman listesi ve yoklama çıktısı sınıf, şube ve öğrenci adına göre sıralanır: 9/A, 9/B, ardından 10/A, 10/B. Tüm/ortaokul/lise filtreleri korunur; kayıtlar değiştirilmez.",
-    "version": "2.1.0-alpha.80",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.80-staging/Akademix-Setup-2.1.0-alpha.80.exe",
-    "sha256": "199a46a77259e783d4826a3305f1aa90cded63d095c629ad3f741d68f01ac3d5"
+    "notes": "Alpha81: Doğru/Yanlış yanında öğrenciye özel Geri Al; seçili tarihte son sözlü cevabını geri alır. Alpha80 bando sınıf/şube sıralaması dahildir.",
+    "version": "2.1.0-alpha.81",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.81-staging/Akademix-Setup-2.1.0-alpha.81.exe",
+    "sha256": "247b048b6168b220743f9f380dcc76fdb6db6344b0ff0c19775b7625507b2451"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

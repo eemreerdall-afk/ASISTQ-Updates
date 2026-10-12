@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha82: Müzikte Doğru/Yanlış yanında Tahtaya Yazıldı. Ayrı olumsuz kayıt, mevcut ağırlıklı 0–20 hesaba katılır; Geri Al, öğrenci kartı ve PDF geçmişi dahildir.",
-    "version": "2.1.0-alpha.82",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.82-staging/Akademix-Setup-2.1.0-alpha.82.exe",
-    "sha256": "998d088b0d5f71a009c690302f5795401cf2b9a5e3422678a9c0ae1dc6fdcfbb"
+    "notes": "Alpha84: Okul başlığı ve ortak okul adı; alt ortada okul logosu, notlandırma PDF dosyaları logosuz. Yönetici panelinde dört mobil branş önizlemesi.",
+    "version": "2.1.0-alpha.84",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.84-staging/Akademix-Setup-2.1.0-alpha.84.exe",
+    "sha256": "898cd264711732133ec7ede52335693d7531ec733fe06e09714ba40b2417efd5"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

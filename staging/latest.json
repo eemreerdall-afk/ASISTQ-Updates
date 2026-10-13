@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha85: Okul ve öğretmen adı alanlarında tüm kullanıcılara uygun genel açıklamalar.",
-    "version": "2.1.0-alpha.85",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.85-staging/Akademix-Setup-2.1.0-alpha.85.exe",
-    "sha256": "be625b8e14a0d58a3252f37c6f8738e96d416baf145789011077d870aa4689d9"
+    "notes": "Alpha86: Malzeme kaydı için üstte Kaydet ve kalıcı kayıt durumu; kaydedilmemiş girişlerde sınıf/ekran koruması ve normal çıkışta malzeme kaydı.",
+    "version": "2.1.0-alpha.86",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.86-staging/Akademix-Setup-2.1.0-alpha.86.exe",
+    "sha256": "6f7fdc73220920618e3bb5fdbb3bf17ac199c8abaea8897b94358272cd06f1f2"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

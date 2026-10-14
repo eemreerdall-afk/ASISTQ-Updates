@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha86: Malzeme kaydı için üstte Kaydet ve kalıcı kayıt durumu; kaydedilmemiş girişlerde sınıf/ekran koruması ve normal çıkışta malzeme kaydı.",
-    "version": "2.1.0-alpha.86",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.86-staging/Akademix-Setup-2.1.0-alpha.86.exe",
-    "sha256": "6f7fdc73220920618e3bb5fdbb3bf17ac199c8abaea8897b94358272cd06f1f2"
+    "notes": "Alpha87: Enstrüman Görevleri; şube seçimi, öğrenciye enstrüman ekleme/değiştirme/kaldırma, boşları gösterme, toplu atama ve PDF.",
+    "version": "2.1.0-alpha.87",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.87-staging/Akademix-Setup-2.1.0-alpha.87.exe",
+    "sha256": "fb3fc45d7053fd9fec1d842ac4a4ce7c7fb5abcf41cfdfba42a4b839ae8cedea"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

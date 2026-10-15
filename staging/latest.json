@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha88: Plansız enstrüman atama, 25 kişilik sayfalar, özel enstrümanlar, uygulama içi PDF, öğrenci karnesi ve takvim gösteri katkısı.",
-    "version": "2.1.0-alpha.88",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.88-staging/Akademix-Setup-2.1.0-alpha.88.exe",
-    "sha256": "747b1aa6ab9113f797d91f5e7e839091c54991730fd459867e13b2f39c9a80c4"
+    "notes": "Alpha89: Bando yoklamasında tüm çalışmalar; sınıf sıralı öğrenciler ve tarih sütunları, A4 yatay sık tablo, okul kapsamı ve uygulama içi PDF kaydetme.",
+    "version": "2.1.0-alpha.89",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.89-staging/Akademix-Setup-2.1.0-alpha.89.exe",
+    "sha256": "569d66561e600cb2eb2421fa861636d7d889b81f80721c5813218db020d7e23b"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

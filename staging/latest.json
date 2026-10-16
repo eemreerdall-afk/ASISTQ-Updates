@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha89: Bando yoklamasında tüm çalışmalar; sınıf sıralı öğrenciler ve tarih sütunları, A4 yatay sık tablo, okul kapsamı ve uygulama içi PDF kaydetme.",
-    "version": "2.1.0-alpha.89",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.89-staging/Akademix-Setup-2.1.0-alpha.89.exe",
-    "sha256": "569d66561e600cb2eb2421fa861636d7d889b81f80721c5813218db020d7e23b"
+    "notes": "Alpha90: Şube, tüm sınıf seviyesi veya tüm okul için öğrenci karneleri tek PDF; sınıf/şube sıralı, her öğrenci yeni sayfada, toplu yazdırma ve WhatsApp için tek dosya.",
+    "version": "2.1.0-alpha.90",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.90-staging/Akademix-Setup-2.1.0-alpha.90.exe",
+    "sha256": "f3326b26329292605a6106de1ef0bddb854374aec1a9b6cee7bae918bfce19e1"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

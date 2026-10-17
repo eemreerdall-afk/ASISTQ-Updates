@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha93: Müzik kulağı alanında Yok / Zayıf yerine Temel, olumlu seçenek Var. Seçim, filtre, profil ve tekli/toplu karnelerde aynı kısa ifadeler. Önceki karne kriterleri, Evet/— ve sorusu belli sözlü takip düzeltmeleri dahildir.",
-    "version": "2.1.0-alpha.93",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.93-staging/Akademix-Setup-2.1.0-alpha.93.exe",
-    "sha256": "42748397625a892777420a5aa3f6853ff8f897313a10ead4b2c63922b1244bff"
+    "notes": "Alpha94: Yeni Müdür Paneli; öğretmen programı aktarımı, uygun boş saate hakkaniyetli veya manuel atama, onay/geri alma, cumartesi–cuma ve özel tarihli listeler, tüm öğretmenlerin ders sayıları ve tek A4 PDF. Okul kayıtları hesaba özeldir.",
+    "version": "2.1.0-alpha.94",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.94-staging/Akademix-Setup-2.1.0-alpha.94.exe",
+    "sha256": "d81036031cc5930efc3c822790f1c99d72892743b83d534cf3cf75d982d93240"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

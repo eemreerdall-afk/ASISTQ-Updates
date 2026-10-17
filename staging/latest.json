@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha91: Tüm karnelerde değerlendirme kriterleri görünür; not yoksa Henüz değerlendirilmedi. Şarkı, dans ve sunucu işaretliyse Evet, değilse —. Kayıtlı puan ve ölçekler korunur.",
-    "version": "2.1.0-alpha.91",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.91-staging/Akademix-Setup-2.1.0-alpha.91.exe",
-    "sha256": "340276c19ee24d09aa0c5df24d6d18a504ada6896776a9449203d83fb89dcc37"
+    "notes": "Alpha92: Sözlü cevap kaydetmeden önce soru yazılır; veli karnesinde tarih, soru ve sonuç birlikte görünür. Eski sorusuz kayıtlar açıkça belirtilir. Alpha91 karne kriterleri ve Evet/— düzeltmeleri dahildir.",
+    "version": "2.1.0-alpha.92",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.92-staging/Akademix-Setup-2.1.0-alpha.92.exe",
+    "sha256": "c219c282513aaa76a6e5fc6ab621a5fdc2bae4bc41fc9d9de0942307c7b66bfc"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

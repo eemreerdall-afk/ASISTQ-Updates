@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha92: Sözlü cevap kaydetmeden önce soru yazılır; veli karnesinde tarih, soru ve sonuç birlikte görünür. Eski sorusuz kayıtlar açıkça belirtilir. Alpha91 karne kriterleri ve Evet/— düzeltmeleri dahildir.",
-    "version": "2.1.0-alpha.92",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.92-staging/Akademix-Setup-2.1.0-alpha.92.exe",
-    "sha256": "c219c282513aaa76a6e5fc6ab621a5fdc2bae4bc41fc9d9de0942307c7b66bfc"
+    "notes": "Alpha93: Müzik kulağı alanında Yok / Zayıf yerine Temel, olumlu seçenek Var. Seçim, filtre, profil ve tekli/toplu karnelerde aynı kısa ifadeler. Önceki karne kriterleri, Evet/— ve sorusu belli sözlü takip düzeltmeleri dahildir.",
+    "version": "2.1.0-alpha.93",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.93-staging/Akademix-Setup-2.1.0-alpha.93.exe",
+    "sha256": "42748397625a892777420a5aa3f6853ff8f897313a10ead4b2c63922b1244bff"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

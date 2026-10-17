@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha90: Şube, tüm sınıf seviyesi veya tüm okul için öğrenci karneleri tek PDF; sınıf/şube sıralı, her öğrenci yeni sayfada, toplu yazdırma ve WhatsApp için tek dosya.",
-    "version": "2.1.0-alpha.90",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.90-staging/Akademix-Setup-2.1.0-alpha.90.exe",
-    "sha256": "f3326b26329292605a6106de1ef0bddb854374aec1a9b6cee7bae918bfce19e1"
+    "notes": "Alpha91: Tüm karnelerde değerlendirme kriterleri görünür; not yoksa Henüz değerlendirilmedi. Şarkı, dans ve sunucu işaretliyse Evet, değilse —. Kayıtlı puan ve ölçekler korunur.",
+    "version": "2.1.0-alpha.91",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.91-staging/Akademix-Setup-2.1.0-alpha.91.exe",
+    "sha256": "340276c19ee24d09aa0c5df24d6d18a504ada6896776a9449203d83fb89dcc37"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

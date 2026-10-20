@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha94: Yeni Müdür Paneli; öğretmen programı aktarımı, uygun boş saate hakkaniyetli veya manuel atama, onay/geri alma, cumartesi–cuma ve özel tarihli listeler, tüm öğretmenlerin ders sayıları ve tek A4 PDF. Okul kayıtları hesaba özeldir.",
-    "version": "2.1.0-alpha.94",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.94-staging/Akademix-Setup-2.1.0-alpha.94.exe",
-    "sha256": "d81036031cc5930efc3c822790f1c99d72892743b83d534cf3cf75d982d93240"
+    "notes": "Alpha95: PC müzikte kişisel Aramalar bölümü; geçmiş tekli ve 2–5 kişilik sahne katılımları, ortaokul/lise filtresi, Aradım ve Arama yapmayacağım, kapalı kişisel arşiv ve geri alma. Sınıf/kalabalık grup, prova ve planlanan etkinlikler önerilmez. Arama durumları bu PC’de tutulur; karneye, puana veya mobile yazılmaz.",
+    "version": "2.1.0-alpha.95",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.95-staging/Akademix-Setup-2.1.0-alpha.95.exe",
+    "sha256": "96148e8d6292439bc9b8984f96188149893fe182b18f53be891b379a081ec6b5"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

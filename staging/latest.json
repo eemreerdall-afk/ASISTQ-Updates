@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha97: Dönen göstergeli bulut Kaydet ve açık başarı/hata durumu; Yetenek bölümünde dinamik değerlendirilmemiş öğrenci listesi; PC–mobil ortak sınıf korosu, türkü/çoklu solist ve 1–2 aşama; kompakt Aramalar, özel görüşme notu ve isteğe bağlı karnede göster. Güncel Müdür Paneli de dahildir.",
-    "version": "2.1.0-alpha.97",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.97-staging/Akademix-Setup-2.1.0-alpha.97.exe",
-    "sha256": "a073adc4e604dfc18d7bb5cb84317e93e51f3659c94130cb0fe8537602215a08"
+    "notes": "Alpha98: Müdür Paneli için güncel mobil-PC ortak kayıtlar, Yeşim Hanım’a özel seçilebilir çağla/pembe/açık sarı tema; Emre yönetici hesabına PC hesap ekleme/değiştirme, şifrelenmiş oturumlar ve hesaplara ayrı yerel veri alanları. Senkronla güncel müdür kayıtlarını yeniden yükler.",
+    "version": "2.1.0-alpha.98",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.98-staging/Akademix-Setup-2.1.0-alpha.98.exe",
+    "sha256": "b606f7347bfcbfaea1caedd9e99f74a79668db6d132502bc63b5cd35a0b75102"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

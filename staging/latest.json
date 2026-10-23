@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha95: PC müzikte kişisel Aramalar bölümü; geçmiş tekli ve 2–5 kişilik sahne katılımları, ortaokul/lise filtresi, Aradım ve Arama yapmayacağım, kapalı kişisel arşiv ve geri alma. Sınıf/kalabalık grup, prova ve planlanan etkinlikler önerilmez. Arama durumları bu PC’de tutulur; karneye, puana veya mobile yazılmaz.",
-    "version": "2.1.0-alpha.95",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.95-staging/Akademix-Setup-2.1.0-alpha.95.exe",
-    "sha256": "96148e8d6292439bc9b8984f96188149893fe182b18f53be891b379a081ec6b5"
+    "notes": "Alpha97: Dönen göstergeli bulut Kaydet ve açık başarı/hata durumu; Yetenek bölümünde dinamik değerlendirilmemiş öğrenci listesi; PC–mobil ortak sınıf korosu, türkü/çoklu solist ve 1–2 aşama; kompakt Aramalar, özel görüşme notu ve isteğe bağlı karnede göster. Güncel Müdür Paneli de dahildir.",
+    "version": "2.1.0-alpha.97",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.97-staging/Akademix-Setup-2.1.0-alpha.97.exe",
+    "sha256": "a073adc4e604dfc18d7bb5cb84317e93e51f3659c94130cb0fe8537602215a08"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

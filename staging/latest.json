@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha98: Müdür Paneli için güncel mobil-PC ortak kayıtlar, Yeşim Hanım’a özel seçilebilir çağla/pembe/açık sarı tema; Emre yönetici hesabına PC hesap ekleme/değiştirme, şifrelenmiş oturumlar ve hesaplara ayrı yerel veri alanları. Senkronla güncel müdür kayıtlarını yeniden yükler.",
-    "version": "2.1.0-alpha.98",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.98-staging/Akademix-Setup-2.1.0-alpha.98.exe",
-    "sha256": "b606f7347bfcbfaea1caedd9e99f74a79668db6d132502bc63b5cd35a0b75102"
+    "notes": "Alpha99: Gitar kulübünde haftalık Ödev / Gelişim; dört sabit kıstas, grup ödevi, kişisel ek çalışma, çalışma günü bildirimi, tarihli geçmiş ve tekli/toplu PDF. Mobil Alpha74 ile ortak, hesap ve revizyon korumalı kayıtlar; mevcut yoklama, ücret ve ders notları korunur.",
+    "version": "2.1.0-alpha.99",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.99-staging/Akademix-Setup-2.1.0-alpha.99.exe",
+    "sha256": "a8a340e0ed6e2aa467c30e4af07fcd71d0d671e9c9beb56af1a6ba644d26194a"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

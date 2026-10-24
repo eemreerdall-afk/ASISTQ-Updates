@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha100: PC kulüp ekranı mobildeki ortak akışa taşındı. Üstte kapalı Kulüp oluştur, altında kulüp seçimi ve küçük Yoklama / Ücretler / Ödev-Gelişim / Ayarlar sekmeleri. Öğrenci seçimi, ücret-pay-tahsilat, tarihli yoklama ve PDF aynı kulüpte; eski Aç/Sil kartları kaldırıldı. Mobil kulüp kimlikleri ve boş takvimler desteklenir; owner/revision kayıt korumaları ve mevcut kayıtlar korunur.",
-    "version": "2.1.0-alpha.100",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.100-staging/Akademix-Setup-2.1.0-alpha.100.exe",
-    "sha256": "d802556f252e7b2273f43e38b030a06c6fcba8e0605574d114e2e40d2d41c28d"
+    "notes": "Alpha101: Yoklama sekmesinden doğrudan haftalık, aylık, eğitim yılı, takvim yılı ve tarih aralığı PDF. Gelecek dersler aylık/yıllık raporda gizlenir, kaydı olmayan haftalar boş kalır. Mevcut kayıtlar değiştirilmez.",
+    "version": "2.1.0-alpha.101",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.101-staging/Akademix-Setup-2.1.0-alpha.101.exe",
+    "sha256": "23e5ddef9784314954ca121a440adcfb3d61cb6f82294749240369512e101bf5"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

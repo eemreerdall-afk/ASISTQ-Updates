@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha99: Gitar kulübünde haftalık Ödev / Gelişim; dört sabit kıstas, grup ödevi, kişisel ek çalışma, çalışma günü bildirimi, tarihli geçmiş ve tekli/toplu PDF. Mobil Alpha74 ile ortak, hesap ve revizyon korumalı kayıtlar; mevcut yoklama, ücret ve ders notları korunur.",
-    "version": "2.1.0-alpha.99",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.99-staging/Akademix-Setup-2.1.0-alpha.99.exe",
-    "sha256": "a8a340e0ed6e2aa467c30e4af07fcd71d0d671e9c9beb56af1a6ba644d26194a"
+    "notes": "Alpha100: PC kulüp ekranı mobildeki ortak akışa taşındı. Üstte kapalı Kulüp oluştur, altında kulüp seçimi ve küçük Yoklama / Ücretler / Ödev-Gelişim / Ayarlar sekmeleri. Öğrenci seçimi, ücret-pay-tahsilat, tarihli yoklama ve PDF aynı kulüpte; eski Aç/Sil kartları kaldırıldı. Mobil kulüp kimlikleri ve boş takvimler desteklenir; owner/revision kayıt korumaları ve mevcut kayıtlar korunur.",
+    "version": "2.1.0-alpha.100",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.100-staging/Akademix-Setup-2.1.0-alpha.100.exe",
+    "sha256": "d802556f252e7b2273f43e38b030a06c6fcba8e0605574d114e2e40d2d41c28d"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha101: Yoklama sekmesinden doğrudan haftalık, aylık, eğitim yılı, takvim yılı ve tarih aralığı PDF. Gelecek dersler aylık/yıllık raporda gizlenir, kaydı olmayan haftalar boş kalır. Mevcut kayıtlar değiştirilmez.",
-    "version": "2.1.0-alpha.101",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.101-staging/Akademix-Setup-2.1.0-alpha.101.exe",
-    "sha256": "23e5ddef9784314954ca121a440adcfb3d61cb6f82294749240369512e101bf5"
+    "notes": "Alpha102: Etkinlik Geçmişi / Katılım. Mevcut etkinlikte katılmayanları belirleme, sonradan fiilen katılan veya öğretmen kararıyla eklenen öğrencileri ayrı kaydetme. Mobil ile aynı owner/CAS kaydı; kompakt açılır pencere, hata/taslak/hesap korumaları. Eski etkinlik, öğrenci, yoklama, ücret ve kayıtlı notlar korunur.",
+    "version": "2.1.0-alpha.102",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.102-staging/Akademix-Setup-2.1.0-alpha.102.exe",
+    "sha256": "51222683f037abf97f14d6b8112e383e455602b0b8cbd55d6a33855b1222dd60"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha102: Etkinlik Geçmişi / Katılım. Mevcut etkinlikte katılmayanları belirleme, sonradan fiilen katılan veya öğretmen kararıyla eklenen öğrencileri ayrı kaydetme. Mobil ile aynı owner/CAS kaydı; kompakt açılır pencere, hata/taslak/hesap korumaları. Eski etkinlik, öğrenci, yoklama, ücret ve kayıtlı notlar korunur.",
-    "version": "2.1.0-alpha.102",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.102-staging/Akademix-Setup-2.1.0-alpha.102.exe",
-    "sha256": "51222683f037abf97f14d6b8112e383e455602b0b8cbd55d6a33855b1222dd60"
+    "notes": "Alpha103: Ana ekranda kompakt Sunucu Paneli. Öğrenci arama veya sınıf/şube, tek anahtarla adaylık, mevcut etkinliğe sunucu atama. Adaylık karneye yansır; yalnız gerçekleşen sunuculuk mevcut etkinlik katkısına dahildir. Müzik değerlendirmesi ve kayıtlı notlar korunur; eski girişler ve iki platform aynı sunucu kaynağını kullanır.",
+    "version": "2.1.0-alpha.103",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.103-staging/Akademix-Setup-2.1.0-alpha.103.exe",
+    "sha256": "853efe280c4ce9015415987377b4ac16792cc20c756ffabad9095532628ebe73"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

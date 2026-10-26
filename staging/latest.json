@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha104: Ana ekranda kompakt Sunucu Paneli. Öğrenci arama veya sınıf/şube, tek anahtarla adaylık, mevcut etkinliğe sunucu atama. Adaylık karneye yansır; yalnız gerçekleşen sunuculuk mevcut etkinlik katkısına dahildir. Müzik değerlendirmesi ve kayıtlı notlar korunur; eski girişler ve iki platform aynı sunucu kaynağını kullanır. Adaylık kapatılsa da eski sunuculuk, etkinlik düzenleyicisinde mevcut görev olarak korunur.",
-    "version": "2.1.0-alpha.104",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.104-staging/Akademix-Setup-2.1.0-alpha.104.exe",
-    "sha256": "8b53ee656a98de2f85bf8975901af00c17274f644ff1975fffbaa0fbc8821f71"
+    "notes": "Alpha105: Sunucu Paneli Yetenek içinde kapalı alt bölüme taşındı. Sunucu adaylığı kayıt türü izni düzeltildi. Ağ hatasında seçim korunurken bölümler arasında geçiş yapılabilir; teknik veritabanı hata metinleri sadeleştirildi. Öğrenciler, müzik değerlendirmeleri, geçmiş sunuculuk ve kayıtlı notlar korunur.",
+    "version": "2.1.0-alpha.105",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.105-staging/Akademix-Setup-2.1.0-alpha.105.exe",
+    "sha256": "41d4e4d3df79e0992ac5dc5a430dd8f5fc49c5325242b86fe8df49ce5544505d"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

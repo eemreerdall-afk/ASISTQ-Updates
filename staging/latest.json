@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha109: Tek üst Kaydet ile yerel kayıt ve bulut senkronu. Değişiklik yokken ve başarılı kayıttan sonra çıkış sorusu yok; gerçek yeni değişiklikte aynı kayıt akışı kullanılır. Etkinlikte sınıfın tüm şubelerini tek adımda ekleme ve şube bazında kompakt katılımcı özeti. Açılış yükleme ekranı, yalnız görünen bölümü yenileme, sınırlı öneriler ve daha az DOM taraması. Kayıt hatasında pencere ve değişiklikler korunur.",
-    "version": "2.1.0-alpha.109",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.109-staging/Akademix-Setup-2.1.0-alpha.109.exe",
-    "sha256": "07b349889fc1606f6469c71fe814b2a2c37b91de7e865e4782065259409ea55a"
+    "notes": "Alpha110: Beş ana başlıkla sade menü, kısa geçişlerle bölüm seçimleri ve derinlikli yeni ana sayfa. Bugünkü dersler, şu an/sıradaki ders, yakın çalışmalar ve alt kısayollar. Resmî Öğretmen Faaliyet Raporu, tarih filtresi, şube/grup özetleri ve sayfalı önizleme. Kaydet sonrası yeşil tik; gerçek kaydedilmemiş değişikliklerde Kaydet ve Çık / Kaydetmeden Çık / Vazgeç. Normal taslaklar arka planda buluta gönderilmez; son başarılı kayda dönerek çıkış mümkündür. Ses araçları geçici çalışma olarak korunur.",
+    "version": "2.1.0-alpha.110",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.110-staging/Akademix-Setup-2.1.0-alpha.110.exe",
+    "sha256": "5fcdcc8e80a216a591d11081135ac941a38db9ef015bbbb3339904ba7c5af676"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

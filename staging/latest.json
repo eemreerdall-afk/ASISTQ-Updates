@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha105: Sunucu Paneli Yetenek içinde kapalı alt bölüme taşındı. Sunucu adaylığı kayıt türü izni düzeltildi. Ağ hatasında seçim korunurken bölümler arasında geçiş yapılabilir; teknik veritabanı hata metinleri sadeleştirildi. Öğrenciler, müzik değerlendirmeleri, geçmiş sunuculuk ve kayıtlı notlar korunur.",
-    "version": "2.1.0-alpha.105",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.105-staging/Akademix-Setup-2.1.0-alpha.105.exe",
-    "sha256": "41d4e4d3df79e0992ac5dc5a430dd8f5fc49c5325242b86fe8df49ce5544505d"
+    "notes": "Alpha106: Etkinlik katılımında sabit üst/alt Kapat, isim/numara arama ve sınıf-şube filtresi. Kaydetmeden kapanan seçimler oturum taslağında korunur. Etkinliğe özel Yüksek etkinlik puanı ve yüzde: gerçekleşen katılım otomatik takip puanını seçili yüzdeye tamamlayabilir. Öğretmen puanları ve kayıtlı notlar kendiliğinden değişmez.",
+    "version": "2.1.0-alpha.106",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.106-staging/Akademix-Setup-2.1.0-alpha.106.exe",
+    "sha256": "1cee454ad2c02b98ea1c1aad048ce77361a757587959d196a10de422355da8b1"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

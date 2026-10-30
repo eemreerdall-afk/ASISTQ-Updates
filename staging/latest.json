@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha107: Araçlar altında premium Akort ve Ses Düzenleme. Cihazda dosya açma, dalgadan kesme, bölme/ortadan çıkarma, sıralama, bölgesel ses noktaları, fade/crossfade ve WAV dışa aktarma. Ses çalışması yalnız bellekte; proje/bulut kaydı ve kayıt uyarısı oluşturmaz. Mikrofon ve dinleme geri dönüşte durur; hesap değişiminde çalışma temizlenir.",
-    "version": "2.1.0-alpha.107",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.107-staging/Akademix-Setup-2.1.0-alpha.107.exe",
-    "sha256": "0b2ab4ff6e8bd9b17a3897a97dd7210cb0603849d826976c3856b8e519b46228"
+    "notes": "Alpha108: Araçlar altında premium Akort ve Ses Düzenleme. Cihazda dosya açma, dalgadan kesme, bölme/ortadan çıkarma, sıralama, bölgesel ses noktaları, fade/crossfade ve WAV dışa aktarma. Ses çalışması yalnız bellekte; proje/bulut kaydı ve kayıt uyarısı oluşturmaz. Mikrofon ve dinleme geri dönüşte durur; hesap değişiminde çalışma temizlenir. Küsuratlı dosya/kesit süreleri dışa aktarmayı engellemez.",
+    "version": "2.1.0-alpha.108",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.108-staging/Akademix-Setup-2.1.0-alpha.108.exe",
+    "sha256": "246432ed8245b2b600d1cc09cf0f7046a6927b9a4dda4042db0311563886294e"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

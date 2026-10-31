@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha118: Notlandırmada Sınıf Bazında ve Toplu Puanlama girişleri. Tüm ortaokul, tüm lise, sınıf veya seçili şubeler için isteğe bağlı sabit taban ve kayıtlı takip katkısı; örneğin 80+20 veya doğrudan 100. Önizleme ve üst Kaydet ile yalnız seçili öğrencilerin notları güncellenir. Çoklu şubeler tek PDF’de kendi okul bilgileriyle çıkarılır. Eksik takipte ek puan 0 açıklanır; malzeme/yoklama verileri uydurulmaz. Mobil aynı kayıtları ve ölçekleri korur.",
-    "version": "2.1.0-alpha.118",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.118-staging/Akademix-Setup-2.1.0-alpha.118.exe",
-    "sha256": "6439ff7303cb8bd1f393ca8b38aa0778fe273dc45e2f4f0f99c248fe9c587692"
+    "notes": "Alpha119: Toplu puanlamayla kaydedilen son not, tekli ve toplu öğrenci karnesi PDF’lerinde yeniden eski genel performans formülüne sokulmaz. Gösterge Kayıtlı Ders Notu olarak aynı puanı gösterir; gerçek malzeme ve katılım verileri korunur. Önizlenip kaydedilmeyen puan değişiklikleriyle eski not PDF’si üretilmesi açıklayıcı uyarıyla önlenir. Sınıf bazındaki normal performans hesabı korunur.",
+    "version": "2.1.0-alpha.119",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.119-staging/Akademix-Setup-2.1.0-alpha.119.exe",
+    "sha256": "afcd7685a1d2c46f7aa34355b230546413ebf5d1c0fc53a49edbcbc1d5bf2a0c"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

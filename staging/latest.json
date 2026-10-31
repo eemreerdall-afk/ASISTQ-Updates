@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha117: Bugünkü Derslerim büyük panelinin başlık ve boş alan dahil tüm zeminine premium yeşil ton uygulandı. İç ders kartlarının mevcut renkleri korundu.",
-    "version": "2.1.0-alpha.117",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.117-staging/Akademix-Setup-2.1.0-alpha.117.exe",
-    "sha256": "72cc4ff38757e67710d393ebaeb5c1c65512aa61a5dec0edcb9cb6b88c9c2ad9"
+    "notes": "Alpha118: Notlandırmada Sınıf Bazında ve Toplu Puanlama girişleri. Tüm ortaokul, tüm lise, sınıf veya seçili şubeler için isteğe bağlı sabit taban ve kayıtlı takip katkısı; örneğin 80+20 veya doğrudan 100. Önizleme ve üst Kaydet ile yalnız seçili öğrencilerin notları güncellenir. Çoklu şubeler tek PDF’de kendi okul bilgileriyle çıkarılır. Eksik takipte ek puan 0 açıklanır; malzeme/yoklama verileri uydurulmaz. Mobil aynı kayıtları ve ölçekleri korur.",
+    "version": "2.1.0-alpha.118",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.118-staging/Akademix-Setup-2.1.0-alpha.118.exe",
+    "sha256": "6439ff7303cb8bd1f393ca8b38aa0778fe273dc45e2f4f0f99c248fe9c587692"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

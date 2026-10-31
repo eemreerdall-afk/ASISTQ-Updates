@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha110: Beş ana başlıkla sade menü, kısa geçişlerle bölüm seçimleri ve derinlikli yeni ana sayfa. Bugünkü dersler, şu an/sıradaki ders, yakın çalışmalar ve alt kısayollar. Resmî Öğretmen Faaliyet Raporu, tarih filtresi, şube/grup özetleri ve sayfalı önizleme. Kaydet sonrası yeşil tik; gerçek kaydedilmemiş değişikliklerde Kaydet ve Çık / Kaydetmeden Çık / Vazgeç. Normal taslaklar arka planda buluta gönderilmez; son başarılı kayda dönerek çıkış mümkündür. Ses araçları geçici çalışma olarak korunur.",
-    "version": "2.1.0-alpha.110",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.110-staging/Akademix-Setup-2.1.0-alpha.110.exe",
-    "sha256": "5fcdcc8e80a216a591d11081135ac941a38db9ef015bbbb3339904ba7c5af676"
+    "notes": "Alpha111: Ana sayfa hesap satırıyla birlikte pencereye sığar; alt kısayollar tamamen görünür. Bölüm içleri için ortak premium çalışma yüzeyleri: kartlar, formlar, tablolar, sekmeler ve işlem pencereleri. Aramalı seçim listeleri, klavye desteği ve yenilenen öğrenci/enstrüman önerileri mevcut kayıt akışlarıyla çalışır. Başlangıç ekranı en az 2 saniye; yerel veri, hesap alanı, ilk bulut eşitlemesi ve duyarlı çizim tamamlandığında kapanır. Ağ yanıt vermezse yerel kayıtlarla açılır. Kaydet/çıkış, kalıcı kayıtlar ve ses araçlarının geçici oturumu korunur.",
+    "version": "2.1.0-alpha.111",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.111-staging/Akademix-Setup-2.1.0-alpha.111.exe",
+    "sha256": "302fc3e876ce9e68b3a7df5dfd360929e595495bebb48d28d69edb4bc543bdaa"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

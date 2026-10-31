@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha116: Ana ekrandaki kulüp ders kartının yeşilimsi tonu saat belirtilse veya ders bitse de korunur. Saat ve ücret hesapları değişmez.",
-    "version": "2.1.0-alpha.116",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.116-staging/Akademix-Setup-2.1.0-alpha.116.exe",
-    "sha256": "8aef8600e9e9fc905fbec3b6caa298afdd38322dfae9cf475f6632545ea008ae"
+    "notes": "Alpha117: Bugünkü Derslerim büyük panelinin başlık ve boş alan dahil tüm zeminine premium yeşil ton uygulandı. İç ders kartlarının mevcut renkleri korundu.",
+    "version": "2.1.0-alpha.117",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.117-staging/Akademix-Setup-2.1.0-alpha.117.exe",
+    "sha256": "72cc4ff38757e67710d393ebaeb5c1c65512aa61a5dec0edcb9cb6b88c9c2ad9"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

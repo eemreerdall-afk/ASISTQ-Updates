@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha112: Etkinliğe katılana otomatik takip puanını tamamlattıran yüksek etkinlik katkısı kaldırıldı. Eski %100 katkı işaretleri yeni hesapta etkisizdir. Gerçekleşmiş etkinliğe katılım normal ağırlığıyla; malzeme, geç kalma, yoklama ve sözlü kayıtlarıyla birlikte değerlendirilir. Öğretmen puanları ve geçmiş kayıtlı karneler otomatik değiştirilmez. Notlandırma > Takipten Hesapla > Kaydet ile seçili şubenin güncel hesabı kaydedilebilir.",
-    "version": "2.1.0-alpha.112",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.112-staging/Akademix-Setup-2.1.0-alpha.112.exe",
-    "sha256": "036a054f60d24e2ed83dbc9a738b9d97cea5a312b10cf9aecee90c61343da312"
+    "notes": "Alpha113: Ana sayfada kulüp dersleri. Tatil ve iptallere duyarlı dört derslik toplu tahsilat düzeni, bir gün önce ödeme hatırlatması. Toplu tutarlar öğrencilere dağıtılmaz; eski bireysel ücret ve tahsilat kayıtları korunur. Ayarlarda MEB PDF/DOCX/TXT yazısından önizlemeli tatil algılama ve elle gün/aralık ekleme; tatilde açıkça ders yapma ve yoklama alma seçeneği. İki okul adı üst başlıkta, kompakt Hesap düğmesi ve yeni sürüm bulunduğunda yumuşak Güncelleme vurgusu.",
+    "version": "2.1.0-alpha.113",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.113-staging/Akademix-Setup-2.1.0-alpha.113.exe",
+    "sha256": "ea918658be07d5b00fd2da5f60548093be5bb405968242f5e5f475e0f96fe436"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

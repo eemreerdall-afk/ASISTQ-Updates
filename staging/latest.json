@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha111: Ana sayfa hesap satırıyla birlikte pencereye sığar; alt kısayollar tamamen görünür. Bölüm içleri için ortak premium çalışma yüzeyleri: kartlar, formlar, tablolar, sekmeler ve işlem pencereleri. Aramalı seçim listeleri, klavye desteği ve yenilenen öğrenci/enstrüman önerileri mevcut kayıt akışlarıyla çalışır. Başlangıç ekranı en az 2 saniye; yerel veri, hesap alanı, ilk bulut eşitlemesi ve duyarlı çizim tamamlandığında kapanır. Ağ yanıt vermezse yerel kayıtlarla açılır. Kaydet/çıkış, kalıcı kayıtlar ve ses araçlarının geçici oturumu korunur.",
-    "version": "2.1.0-alpha.111",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.111-staging/Akademix-Setup-2.1.0-alpha.111.exe",
-    "sha256": "302fc3e876ce9e68b3a7df5dfd360929e595495bebb48d28d69edb4bc543bdaa"
+    "notes": "Alpha112: Etkinliğe katılana otomatik takip puanını tamamlattıran yüksek etkinlik katkısı kaldırıldı. Eski %100 katkı işaretleri yeni hesapta etkisizdir. Gerçekleşmiş etkinliğe katılım normal ağırlığıyla; malzeme, geç kalma, yoklama ve sözlü kayıtlarıyla birlikte değerlendirilir. Öğretmen puanları ve geçmiş kayıtlı karneler otomatik değiştirilmez. Notlandırma > Takipten Hesapla > Kaydet ile seçili şubenin güncel hesabı kaydedilebilir.",
+    "version": "2.1.0-alpha.112",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.112-staging/Akademix-Setup-2.1.0-alpha.112.exe",
+    "sha256": "036a054f60d24e2ed83dbc9a738b9d97cea5a312b10cf9aecee90c61343da312"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

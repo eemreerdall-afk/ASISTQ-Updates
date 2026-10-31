@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha115: Aylık ücret değişse de eski ders tutarlarının öğrenci toplamında kalması için görünür açıklama ve seçili döneme özel önizlemeli ücret düzeltmesi. Eski ders ücretleri işlem geçmişinde korunur; tahsilatlar değişmez. Eşzamanlı ücret değişikliğinde eski önizlemeyle işlem yapılmaz.",
-    "version": "2.1.0-alpha.115",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.115-staging/Akademix-Setup-2.1.0-alpha.115.exe",
-    "sha256": "db5f58dccf3b9846fc02362d0ea4480f600c7ac1b72a37c009f24e49fc4d698e"
+    "notes": "Alpha116: Ana ekrandaki kulüp ders kartının yeşilimsi tonu saat belirtilse veya ders bitse de korunur. Saat ve ücret hesapları değişmez.",
+    "version": "2.1.0-alpha.116",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.116-staging/Akademix-Setup-2.1.0-alpha.116.exe",
+    "sha256": "8aef8600e9e9fc905fbec3b6caa298afdd38322dfae9cf475f6632545ea008ae"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

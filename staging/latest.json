@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha114: Kulüp ayarlarında açık ders günü ve saat alanları. Aylık (4 ders) / günlük ücret seçimi; toplu tahsilatta aylık tutar ders saatiyle çarpılmaz. Ödev / Gelişim ekranında Çalışmış / Çalışmamış düğmeleri, boş değerlendirme ayrımı ve kayıtlı derslere dayanan çalışma grafiği. Eski ücret, tahsilat ve ayrıntılı gelişim kayıtları korunur.",
-    "version": "2.1.0-alpha.114",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.114-staging/Akademix-Setup-2.1.0-alpha.114.exe",
-    "sha256": "4470b0fa1de19da550e35619c32110463b7b7d5341ad03e39c4a5cbc841341a9"
+    "notes": "Alpha115: Aylık ücret değişse de eski ders tutarlarının öğrenci toplamında kalması için görünür açıklama ve seçili döneme özel önizlemeli ücret düzeltmesi. Eski ders ücretleri işlem geçmişinde korunur; tahsilatlar değişmez. Eşzamanlı ücret değişikliğinde eski önizlemeyle işlem yapılmaz.",
+    "version": "2.1.0-alpha.115",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.115-staging/Akademix-Setup-2.1.0-alpha.115.exe",
+    "sha256": "db5f58dccf3b9846fc02362d0ea4480f600c7ac1b72a37c009f24e49fc4d698e"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

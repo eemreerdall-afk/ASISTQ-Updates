@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha113: Ana sayfada kulüp dersleri. Tatil ve iptallere duyarlı dört derslik toplu tahsilat düzeni, bir gün önce ödeme hatırlatması. Toplu tutarlar öğrencilere dağıtılmaz; eski bireysel ücret ve tahsilat kayıtları korunur. Ayarlarda MEB PDF/DOCX/TXT yazısından önizlemeli tatil algılama ve elle gün/aralık ekleme; tatilde açıkça ders yapma ve yoklama alma seçeneği. İki okul adı üst başlıkta, kompakt Hesap düğmesi ve yeni sürüm bulunduğunda yumuşak Güncelleme vurgusu.",
-    "version": "2.1.0-alpha.113",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.113-staging/Akademix-Setup-2.1.0-alpha.113.exe",
-    "sha256": "ea918658be07d5b00fd2da5f60548093be5bb405968242f5e5f475e0f96fe436"
+    "notes": "Alpha114: Kulüp ayarlarında açık ders günü ve saat alanları. Aylık (4 ders) / günlük ücret seçimi; toplu tahsilatta aylık tutar ders saatiyle çarpılmaz. Ödev / Gelişim ekranında Çalışmış / Çalışmamış düğmeleri, boş değerlendirme ayrımı ve kayıtlı derslere dayanan çalışma grafiği. Eski ücret, tahsilat ve ayrıntılı gelişim kayıtları korunur.",
+    "version": "2.1.0-alpha.114",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.114-staging/Akademix-Setup-2.1.0-alpha.114.exe",
+    "sha256": "4470b0fa1de19da550e35619c32110463b7b7d5341ad03e39c4a5cbc841341a9"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

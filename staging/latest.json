@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha126: Sahne Mix Pro eklendi. Yerel kalıcı müzik kütüphanesi, dosya/alt klasör aktarımı ve sürükle-bırak, iki bağımsız kanal, gerçek dalga formu, manuel ve otomatik yumuşak geçiş, ses perdesini koruyan ücretsiz Signalsmith tempo motoru, kayıtlı kesitler ve gösteri paketleri. Akademix erişimiyle ayrı giriş öğrenci verisi indirmez; panelde müzik devam eder ve üstten durdurulabilir. Müzik çalarken güncelleme kurulumu engellenir. Ücretsiz MIT bileşenleri uygulamaya dahildir; harici aktivasyon veya ücret gerekmez.",
-    "version": "2.1.0-alpha.126",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.126-staging/Akademix-Setup-2.1.0-alpha.126.exe",
-    "sha256": "a5de77e45f4dc19128caf7b8a5f11a133077484d9b411efb15e1d9e45f4b16a9"
+    "notes": "Alpha127: Sahne Mix Pro; iki kanal, gerçek dalga, perde korumalı tempo, yumuşak geçişler, yerel klasörlü kütüphane ve müzikli gösteri paketleri. Pencere ilk açılışta kullanılabilir laptop ekranına sığar. Sahne Mix açılırken diğer ses araçlarının dinlemesi/mikrofonu durur, RAM düzenlemesi korunur. Panelde müzik devam eder, üstten durdurulabilir. Ek ücretli bileşen veya dış aktivasyon yok; müzikler buluta yüklenmez.",
+    "version": "2.1.0-alpha.127",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.127-staging/Akademix-Setup-2.1.0-alpha.127.exe",
+    "sha256": "b18d77add52e719ea7378eb4ca9b22cb7e65b8327f1669c2fea041e3f873732a"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

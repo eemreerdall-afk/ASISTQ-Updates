@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha123: Günlük prova çizelgesinde şubeler yan yana, müzik dersleri kırmızı ve kalın. Gün seçimi ve resmî PDF önizleme. 5–9 ve 10–12. sınıflar için ayrı zil/öğle arası düzenleri; ortak program, ana ekran ve prova seçimi gerçek saatlere göre hizalanır. 9. sınıf ilk zil grubundadır. İdeal hazır zil düzeni eklendi; diğer hesapların mevcut saatleri korunur. Zil grupları ayarlardan düzenlenebilir. Eski şube kayıtları ve prova geçmişi korunur.",
-    "version": "2.1.0-alpha.123",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.123-staging/Akademix-Setup-2.1.0-alpha.123.exe",
-    "sha256": "d60335e628e5a47b1b9ccdb51bece147ecc7873cf0f24e8d8e091d12da828f41"
+    "notes": "Alpha124: Öğretmen programında görselle doğrulanan 9/A–B–C ders ve gözetmenlik saatleri düzeltildi. Şube programında bilgi girilmiş bir günün boş saatleri diğer programdan sessizce doldurulmaz; böylece fazladan müzik dersi oluşmaz. Onaylanmış program düzeltmeleri eski cihaz kopyalarından korunur; sonraki bilinçli düzenlemeler ve silmeler korunur. Günlük PDF, zil grupları ve diğer kayıtlar değişmeden devam eder.",
+    "version": "2.1.0-alpha.124",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.124-staging/Akademix-Setup-2.1.0-alpha.124.exe",
+    "sha256": "7ff1efe768f616c92a63d7c15cd31216500dfbbd0723a536c79d930a65263ef5"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

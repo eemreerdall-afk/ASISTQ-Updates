@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha128: PC müzik Malzeme Talepleri artık Excel yerine doğrudan A4 yatay PDF indirir. Okul adı ve logosu, öğretmen, tarih, malzeme listesi ve KDV dahil toplam korunur. Eksik fiyat/adet boş kalır; uzun listelerde başlıklar tekrarlanır. Talep geçmişi ve mevcut kayıtlar korunur.",
-    "version": "2.1.0-alpha.128",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.128-staging/Akademix-Setup-2.1.0-alpha.128.exe",
-    "sha256": "e0326d6b8bf65d675f65fe8428b11cc34326c1e10622736a9f6969ff36c852f9"
+    "notes": "Alpha129: MÜZİK DERSİ MALZEME TALEP FORMU artık A4 dikey ve siyah beyaz. Logo yalnız ilk sayfanın başlığında, taşma yapmaz. Seçilen okulun müdür imzası; ortak kolejde Murat Bedir ve Murat Öztemur için iki imza alanı. Öğretmen imzası, malzeme bilgileri ve toplam korunur.",
+    "version": "2.1.0-alpha.129",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.129-staging/Akademix-Setup-2.1.0-alpha.129.exe",
+    "sha256": "2ee4d55e2e14f19009d302805a12355fc735c1b33b952103530d2a2dbd1ed055"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

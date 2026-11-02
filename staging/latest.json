@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha121: Hesap ayarlarındaki ortak kurum adı, malzeme taleplerinde üçüncü okul seçeneği olarak kullanılabilir. Çıktı bölümlerine otomatik / ortaokul / lise / ortak kurum okul başlığı seçimi eklendi; öğrenci kapsamı ve puanlar değişmez. Ortak ad üstteki Kaydet ile kaydedilir. Prova programında yalnız çakışan ders saatlerinin doldurulabileceği açıklandı.",
-    "version": "2.1.0-alpha.121",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.121-staging/Akademix-Setup-2.1.0-alpha.121.exe",
-    "sha256": "8d0ad678e017bf19471ba15981a2d65577f1c334cacfa3c0bb0382da472ecd30"
+    "notes": "Alpha122: Prova Planı üç sade girişe ayrıldı: Prova Hazırla, Provalarım ve Şube Programları. Çoklu ders saati seçimi, müzik saatlerinin renklendirilmesi, aynı hücrede alt alta şube dersleri, günlük / haftalık resmî PDF önizleme ve indirme. Düzenleme, iptal geçmişi ve zil saatine göre otomatik gerçekleşme durumu. Mevcut şube programları ve talepler korunur; prova oluşturmadan çakışma çizelgesi kullanılabilir.",
+    "version": "2.1.0-alpha.122",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.122-staging/Akademix-Setup-2.1.0-alpha.122.exe",
+    "sha256": "545891c272bb472edecccbb16e494fe3b561b018ed5a7b1101c8ef4e7846821d"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

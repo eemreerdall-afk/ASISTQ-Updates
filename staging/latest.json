@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha127: Sahne Mix Pro; iki kanal, gerçek dalga, perde korumalı tempo, yumuşak geçişler, yerel klasörlü kütüphane ve müzikli gösteri paketleri. Pencere ilk açılışta kullanılabilir laptop ekranına sığar. Sahne Mix açılırken diğer ses araçlarının dinlemesi/mikrofonu durur, RAM düzenlemesi korunur. Panelde müzik devam eder, üstten durdurulabilir. Ek ücretli bileşen veya dış aktivasyon yok; müzikler buluta yüklenmez.",
-    "version": "2.1.0-alpha.127",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.127-staging/Akademix-Setup-2.1.0-alpha.127.exe",
-    "sha256": "b18d77add52e719ea7378eb4ca9b22cb7e65b8327f1669c2fea041e3f873732a"
+    "notes": "Alpha128: PC müzik Malzeme Talepleri artık Excel yerine doğrudan A4 yatay PDF indirir. Okul adı ve logosu, öğretmen, tarih, malzeme listesi ve KDV dahil toplam korunur. Eksik fiyat/adet boş kalır; uzun listelerde başlıklar tekrarlanır. Talep geçmişi ve mevcut kayıtlar korunur.",
+    "version": "2.1.0-alpha.128",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.128-staging/Akademix-Setup-2.1.0-alpha.128.exe",
+    "sha256": "e0326d6b8bf65d675f65fe8428b11cc34326c1e10622736a9f6969ff36c852f9"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

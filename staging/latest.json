@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha120: Malzeme Talepleri; okul seçimi, adım adım isteğe bağlı alanlar, düzenlenebilir taslak / geçmiş, KDV dahil toplam ve okul logolu gerçek Excel çıktısı. Prova Planı; kayıtlı şube ders programlarıyla günlük / haftalık koordinatör PDF çizelgesi. Hesap ayrımı ve kayıt sürümü koruması.",
-    "version": "2.1.0-alpha.120",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.120-staging/Akademix-Setup-2.1.0-alpha.120.exe",
-    "sha256": "a083e91ca43bb880c7517a76aee4629b537625f9bfabf41d2ca2b23bc357ff32"
+    "notes": "Alpha121: Hesap ayarlarındaki ortak kurum adı, malzeme taleplerinde üçüncü okul seçeneği olarak kullanılabilir. Çıktı bölümlerine otomatik / ortaokul / lise / ortak kurum okul başlığı seçimi eklendi; öğrenci kapsamı ve puanlar değişmez. Ortak ad üstteki Kaydet ile kaydedilir. Prova programında yalnız çakışan ders saatlerinin doldurulabileceği açıklandı.",
+    "version": "2.1.0-alpha.121",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.121-staging/Akademix-Setup-2.1.0-alpha.121.exe",
+    "sha256": "8d0ad678e017bf19471ba15981a2d65577f1c334cacfa3c0bb0382da472ecd30"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

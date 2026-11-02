@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha124: Öğretmen programında görselle doğrulanan 9/A–B–C ders ve gözetmenlik saatleri düzeltildi. Şube programında bilgi girilmiş bir günün boş saatleri diğer programdan sessizce doldurulmaz; böylece fazladan müzik dersi oluşmaz. Onaylanmış program düzeltmeleri eski cihaz kopyalarından korunur; sonraki bilinçli düzenlemeler ve silmeler korunur. Günlük PDF, zil grupları ve diğer kayıtlar değişmeden devam eder.",
-    "version": "2.1.0-alpha.124",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.124-staging/Akademix-Setup-2.1.0-alpha.124.exe",
-    "sha256": "7ff1efe768f616c92a63d7c15cd31216500dfbbd0723a536c79d930a65263ef5"
+    "notes": "Alpha125: Provalarım ve önizleme ekranına tek provayı onayla silme eklendi. İptal edilen kayıtlar da silinebilir; kayıt hatasında plan korunur ve diğer taslaklar kaydedilmez. Günlük prova PDF’sinde yalnız seçili saatlerin dersleri gösterilir; seçimden çıkarılan saatlerin hücreleri boş kalır. Şube Programları bölümündeki tam günlük görünüm ve mevcut ders kayıtları korunur.",
+    "version": "2.1.0-alpha.125",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.125-staging/Akademix-Setup-2.1.0-alpha.125.exe",
+    "sha256": "3647440bdf5ac0e2aff7eafd959ae64accd22ee256a16c7b38c8cb8b1bafcf1c"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha130: Yaklaşan çalışmalarda öğrenci adı/şube ve açılır ayrıntı kartı; düzenle, ertele, iptal. Notlandırmada şubeye özel/toplu küsuratları üst tam sayıya tamamlama ve çoklu PDF seçeneği. Malzeme taleplerinde Taslak Kaydet, Sıfırla ve geçmişten Sil.",
-    "version": "2.1.0-alpha.130",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.130-staging/Akademix-Setup-2.1.0-alpha.130.exe",
-    "sha256": "24902ea9b30c9e26a39dd43951dff06e92f099eddaa04f8a44543296903b9668"
+    "notes": "Alpha131: Yaklaşan çalışmalarda öğrenci/şube yazısı açık gri; kartın arka planı korunur. Malzeme talep geçmişinde küçük Sil düğmesi ilgili formun satırında. Arşiv satırları ve talep tablosu daha kompakt.",
+    "version": "2.1.0-alpha.131",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.131-staging/Akademix-Setup-2.1.0-alpha.131.exe",
+    "sha256": "cbcf0fb04d61e4376381c8840c0f9f630daac98e1c82c55ec0f413eadf87c14a"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

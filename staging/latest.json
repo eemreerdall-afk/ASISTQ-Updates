@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha132: Küçük kartvizit boyutunda çalışma ayrıntısı, ekran ortasında üst katman, tıklanan yerden yumuşak açılış ve kararan/bulanık arka plan. Eksik görünüm dosyası kurulum paketine eklendi; gerçek app.asar renderer testi zorunlu. Taleplerde seçim yapılana kadar boş onay; yeşil Onaylandı / kırmızı Onaylanmadı, değiştirilebilir ve temizlenebilir.",
-    "version": "2.1.0-alpha.132",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.132-staging/Akademix-Setup-2.1.0-alpha.132.exe",
-    "sha256": "fd482ab3864fb8f1bccb631f41e68cebfd7f67bf216c359107586d759730166d"
+    "notes": "Alpha133: Yönetici kontrol merkezi; tek tık hesap kartları, Sahne Mix izni/deneme/cihaz sınırı, askı/ban/oturum kapatma, yönetici yetkisi ve üyelik silme; erişim talepleri, destek, duyuru ve işlem geçmişi; dinamik mobil branş görünüm galerisi.",
+    "version": "2.1.0-alpha.133",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.133-staging/Akademix-Setup-2.1.0-alpha.133.exe",
+    "sha256": "e71a32b53f7f1263501242b1ca2d3d99f38f4b3b08145af99347a608338adce3"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

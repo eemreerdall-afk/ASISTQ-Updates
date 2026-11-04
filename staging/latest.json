@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha133: Yönetici kontrol merkezi; tek tık hesap kartları, Sahne Mix izni/deneme/cihaz sınırı, askı/ban/oturum kapatma, yönetici yetkisi ve üyelik silme; erişim talepleri, destek, duyuru ve işlem geçmişi; dinamik mobil branş görünüm galerisi.",
-    "version": "2.1.0-alpha.133",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.133-staging/Akademix-Setup-2.1.0-alpha.133.exe",
-    "sha256": "e71a32b53f7f1263501242b1ca2d3d99f38f4b3b08145af99347a608338adce3"
+    "notes": "Alpha134: Yönetici kontrol merkezi; tek tık hesap kartları, Sahne Mix izni/deneme/cihaz sınırı, askı/ban/oturum kapatma, yönetici yetkileri ve üyelik silme, erişim talepleri, destek, duyuru ve işlem geçmişi. Dinamik mobil branş görünüm galerisi. Sunucu oturumu reddettiğinde açık Sahne Mix erişimi kapanır.",
+    "version": "2.1.0-alpha.134",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.134-staging/Akademix-Setup-2.1.0-alpha.134.exe",
+    "sha256": "a4c94391586373e222586724f1d16df87197a71ec0fccd09cfdfd92cd675b73c"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

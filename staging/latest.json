@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha129: MÜZİK DERSİ MALZEME TALEP FORMU artık A4 dikey ve siyah beyaz. Logo yalnız ilk sayfanın başlığında, taşma yapmaz. Seçilen okulun müdür imzası; ortak kolejde Murat Bedir ve Murat Öztemur için iki imza alanı. Öğretmen imzası, malzeme bilgileri ve toplam korunur.",
-    "version": "2.1.0-alpha.129",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.129-staging/Akademix-Setup-2.1.0-alpha.129.exe",
-    "sha256": "2ee4d55e2e14f19009d302805a12355fc735c1b33b952103530d2a2dbd1ed055"
+    "notes": "Alpha130: Yaklaşan çalışmalarda öğrenci adı/şube ve açılır ayrıntı kartı; düzenle, ertele, iptal. Notlandırmada şubeye özel/toplu küsuratları üst tam sayıya tamamlama ve çoklu PDF seçeneği. Malzeme taleplerinde Taslak Kaydet, Sıfırla ve geçmişten Sil.",
+    "version": "2.1.0-alpha.130",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.130-staging/Akademix-Setup-2.1.0-alpha.130.exe",
+    "sha256": "24902ea9b30c9e26a39dd43951dff06e92f099eddaa04f8a44543296903b9668"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Prova planlarını PDF indirmeden görüntüleyebilirsiniz.; Yeni ve eski provalara başlık ve açıklama ekleyebilirsiniz.; Gerçekleşen provalar öğretmen ve öğrenci karnelerinde toplam sayıyla görünür.; Birden fazla ders saati süren aynı prova bir kez sayılır; iptal edilen prova toplamdan çıkarılır.; Güncellemeler bölümündeki kapalı açıklama alanından bu sürümde değişenleri okuyabilirsiniz.",
-    "version": "2.1.0-alpha.136",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.136-staging/Akademix-Setup-2.1.0-alpha.136.exe",
-    "sha256": "6871afe00f33d98d2eb9ecaafb9b5a0d4ce12024b9f9e4f4d095e79093746a90"
+    "notes": "Etkinlikler ve özel günler tek merkezde toplandı; provalar da bu bölümden açılır.; Yeni etkinlik formu katılımcı, etkinlik türü, tarih ve form adımlarıyla hazırlanır.; Öğrenci, hazır grup, birden fazla şube, tüm sınıf düzeyi, ortaokul veya lise topluca seçilebilir.; Kayıtlı ve eski özel gün formları düzenlenebilir; mevcut katılım ve geçmiş kayıtlar korunur.; Tarihler takvimde, gerçekleşen etkinlikler öğretmen ve öğrenci karnelerinde görünür.",
+    "version": "2.1.0-alpha.137",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.137-staging/Akademix-Setup-2.1.0-alpha.137.exe",
+    "sha256": "e640bcfe9b4d82599ceee7e204acbeac1170535a3704d6b95e6a089e8295ffd3"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

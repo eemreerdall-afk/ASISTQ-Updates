@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Etkinlikler ve özel günler tek merkezde toplandı; provalar da bu bölümden açılır.; Yeni etkinlik formu katılımcı, etkinlik türü, tarih ve form adımlarıyla hazırlanır.; Öğrenci, hazır grup, birden fazla şube, tüm sınıf düzeyi, ortaokul veya lise topluca seçilebilir.; Kayıtlı ve eski özel gün formları düzenlenebilir; mevcut katılım ve geçmiş kayıtlar korunur.; Tarihler takvimde, gerçekleşen etkinlikler öğretmen ve öğrenci karnelerinde görünür.",
-    "version": "2.1.0-alpha.137",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.137-staging/Akademix-Setup-2.1.0-alpha.137.exe",
-    "sha256": "e640bcfe9b4d82599ceee7e204acbeac1170535a3704d6b95e6a089e8295ffd3"
+    "notes": "Takvim ay ve ajanda görünümleriyle yenilendi; etkinlik ve plan pencereleri daha kompakt açılır.; Öğretmen karnesi etkinlikleri numaralandırır; öğrenci adları yerine sınıf, grup ve katılımcı sayılarını gösterir.; Yeni CV bölümünde hesap fotoğrafı, kişisel bilgiler ve gerçekleşen çalışmalar sabit bir PDF düzeninde hazırlanır.; Ortak ekranlar, açılış geçişleri ve uzun listeler yenilendi; listeler kısa sayfalara ayrıldı.; Bulut eşitlemesinde eski kayıtların yeni değişiklikleri ezmesi ve silinen kayıtların geri gelmesi önlendi; çakışmalar karşılaştırılarak çözülür.",
+    "version": "2.1.0-alpha.138",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.138-staging/Akademix-Setup-2.1.0-alpha.138.exe",
+    "sha256": "7eb14008e377416ae4a036e5e77ce893f6202479de8b1c21769b4648a574e7a3"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "İsimle tek tek seçilen öğrenciler tek listede görünür; Sonraki Şube çıkmaz. Liste9/A,9/B…10/A…11…12şube ve ad sırasıyla düzenlenir.; Şubeden toplu seçimde şube şube gezinme korunur. Seçim yöntemi kaydedilen eklemede tutulur ve Düzenle ile geri açılır.",
-    "version": "2.1.0-alpha.145",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.145-staging/Akademix-Setup-2.1.0-alpha.145.exe",
-    "sha256": "c369a055a1cb107b52055295700fd8ddb3c974af687b81453bfdb74815540cf1"
+    "notes": "Şube filtresi açık olsa bile tek tek işaretlenen öğrenciler tek listede görünür; şube sayfalaması yalnız açık toplu seçimde kullanılır.; Rozet adımından adet alanları kaldırıldı; adetler yalnız en son Kontrol Et ekranında öğrenciye ve rozete özel değiştirilir.; Öğrenci satırları, adet kontrolleri ve Yeni liste oluştur seçeneği küçültüldü.",
+    "version": "2.1.0-alpha.146",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.146-staging/Akademix-Setup-2.1.0-alpha.146.exe",
+    "sha256": "dd7aa543128c1c1a5cbf15e888f6b3ae7db05ba4e1ec401fe3a714ad08e557b3"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

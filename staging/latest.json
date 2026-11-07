@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Rozet panelinde başlık, okul adı ve sekmelerin üst üste binmesine neden olan ortak üst bar biçim çakışması giderildi.; Uzun isim/metinlerin satıra sığması ve dar/yakınlaştırılmış pencerelerde önizlemelerin ekran içinde kalması düzeltildi.; Ana menü, rozet adımları, geçmiş, arama, sınıf listesi, ayarlar ve önizlemeler için farklı boyutlarda ve yüzde125–150ölçekte yerleşim kontrolleri eklendi.",
-    "version": "2.1.0-alpha.143",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.143-staging/Akademix-Setup-2.1.0-alpha.143.exe",
-    "sha256": "e323f4de46c05d4fd4e705e07ec17192c0490ad7bd56b48ecfebb928654350cd"
+    "notes": "Rozet verirken birden fazla rozet seçimi, her rozet ve öğrenci için ayrı 1–10 adet kontrolü eklendi.; Açık rozet listelerine devam etme veya onaylı yeni liste oluşturma; son eklemeyi düzenleme, silme ve onaylı Bitir işlemleri eklendi.; İsimleri açıp kapatan kompakt liste yenilendi; kapatılan içeriğin izi ve çift sayfalama giderildi.; Birden fazla şube, sınıf düzeyi veya tüm liseyi toplu seçme ve seçilenleri şube şube inceleyip çıkarma eklendi.",
+    "version": "2.1.0-alpha.144",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.144-staging/Akademix-Setup-2.1.0-alpha.144.exe",
+    "sha256": "1c96b3324d557e908e623049b23345c29e9eaf2926683772ee6c88702f25091b"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

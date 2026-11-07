@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "PC Okul Yönetimi alanına Koordinatör görevi ve kullanılacak araçları seçme eklendi.; Rozet Merkezi özgün 11 rozet, hazır açıklama ve adımlı çoklu öğrenci seçimiyle açılır.; Öğrenci kartları, ilk beş sıralaması ve şube bazlı rozet dağılımı eklendi.; Sınıf listeleri yüklenip değişiklikler önizlenir; onayla güncellenir, geçmiş rozetler korunur.; Tek öğrenci, şube ve birden çok sınıf düzeyi için rozet PDF çıktısı eklendi.",
-    "version": "2.1.0-alpha.139",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.139-staging/Akademix-Setup-2.1.0-alpha.139.exe",
-    "sha256": "3177d1f72c0bdba816294e715ea069f0335799e324afb337b554db33f3828861"
+    "notes": "Alpha139 sonrası uygulamanın açılmasını engelleyen ana pencere başlatma hatası giderildi.; Rozet bağlantıları ana pencere oluşturulduktan sonra kurulur; mevcut öğrenci ve hesap kayıtları korunur.; Gerçek uygulama açılışı, preload ve ana ekran hem kaynakta hem Windows kurulum paketinde test edilir.",
+    "version": "2.1.0-alpha.140",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.140-staging/Akademix-Setup-2.1.0-alpha.140.exe",
+    "sha256": "1b21ee4dc3519adb75de41be58e8d03fe59a905eaabdafef180de78c3b6d761b"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

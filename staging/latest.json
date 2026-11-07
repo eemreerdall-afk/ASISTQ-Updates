@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Rozet seçiminde kompakt isim listesi, seçtikçe temizlenen arama ve kalıcı seçilen öğrenciler alanı.; Aynı öğrenciye aynı gün aynı rozet tekrar verilebilir; adet seçimiyle önceki rozetlere eklenir.; Rozetler bölümünde en son ekleme en üstte, her işlem yanında birikimli PDF önizlemesi ve çıktı.; İdeal Eğitim Anadolu Lisesi başlıklı 11 rozet sütunlu öğrenci tablosu ve fotoğraflı bireysel rozet karnesi; her tekrar numarası ve tarihiyle gösterilir.; Ayarlar bölümünden yazılı onayla rozetleri sıfırlama; öğrenci listeleri ve fotoğraflar korunur.",
-    "version": "2.1.0-alpha.142",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.142-staging/Akademix-Setup-2.1.0-alpha.142.exe",
-    "sha256": "654e64c4273f0189f64c6dce43c3043a730fd49d288e6b68ac4f4b873b06e35e"
+    "notes": "Rozet panelinde başlık, okul adı ve sekmelerin üst üste binmesine neden olan ortak üst bar biçim çakışması giderildi.; Uzun isim/metinlerin satıra sığması ve dar/yakınlaştırılmış pencerelerde önizlemelerin ekran içinde kalması düzeltildi.; Ana menü, rozet adımları, geçmiş, arama, sınıf listesi, ayarlar ve önizlemeler için farklı boyutlarda ve yüzde125–150ölçekte yerleşim kontrolleri eklendi.",
+    "version": "2.1.0-alpha.143",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.143-staging/Akademix-Setup-2.1.0-alpha.143.exe",
+    "sha256": "e323f4de46c05d4fd4e705e07ec17192c0490ad7bd56b48ecfebb928654350cd"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

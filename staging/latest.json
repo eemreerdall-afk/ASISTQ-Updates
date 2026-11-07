@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Rozet verirken birden fazla rozet seçimi, her rozet ve öğrenci için ayrı 1–10 adet kontrolü eklendi.; Açık rozet listelerine devam etme veya onaylı yeni liste oluşturma; son eklemeyi düzenleme, silme ve onaylı Bitir işlemleri eklendi.; İsimleri açıp kapatan kompakt liste yenilendi; kapatılan içeriğin izi ve çift sayfalama giderildi.; Birden fazla şube, sınıf düzeyi veya tüm liseyi toplu seçme ve seçilenleri şube şube inceleyip çıkarma eklendi.",
-    "version": "2.1.0-alpha.144",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.144-staging/Akademix-Setup-2.1.0-alpha.144.exe",
-    "sha256": "1c96b3324d557e908e623049b23345c29e9eaf2926683772ee6c88702f25091b"
+    "notes": "İsimle tek tek seçilen öğrenciler tek listede görünür; Sonraki Şube çıkmaz. Liste9/A,9/B…10/A…11…12şube ve ad sırasıyla düzenlenir.; Şubeden toplu seçimde şube şube gezinme korunur. Seçim yöntemi kaydedilen eklemede tutulur ve Düzenle ile geri açılır.",
+    "version": "2.1.0-alpha.145",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.145-staging/Akademix-Setup-2.1.0-alpha.145.exe",
+    "sha256": "c369a055a1cb107b52055295700fd8ddb3c974af687b81453bfdb74815540cf1"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -1,9 +1,9 @@
 {
   "latest": {
-    "notes": "Alpha139 sonrası uygulamanın açılmasını engelleyen ana pencere başlatma hatası giderildi.; Rozet bağlantıları ana pencere oluşturulduktan sonra kurulur; mevcut öğrenci ve hesap kayıtları korunur.; Gerçek uygulama açılışı, preload ve ana ekran hem kaynakta hem Windows kurulum paketinde test edilir.",
-    "version": "2.1.0-alpha.140",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.140-staging/Akademix-Setup-2.1.0-alpha.140.exe",
-    "sha256": "1b21ee4dc3519adb75de41be58e8d03fe59a905eaabdafef180de78c3b6d761b"
+    "notes": "CV Stüdyosu: hesap bilgilerinden ve gerçekleşmiş çalışmalardan düzenlenebilir özgeçmiş; bağımsız kişi profilleri, kısa adımlar ve iki sabit PDF şablonu.; Geçmiş tarihli, iptal edilmemiş etkinlikler takvim ve karnelerde otomatik gerçekleşmiş görünür; kayıtlı notlar korunur.; Öğrenci karnesi veliye anlaşılır özet ve sıcak, okunaklı PDF görünümüyle yenilendi.; Yönetici Paneli → Panelleri Kontrol Et: hesabından çıkmadan müzik, boş ders ve rozet PC panellerini bağımsız deneme verileriyle incele.",
+    "version": "2.1.0-alpha.141",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.141-staging/Akademix-Setup-2.1.0-alpha.141.exe",
+    "sha256": "f5d48c72ffc334ec7e09dc879b9753fefb4f7afc557525cf3e0f96e24164d3cd"
   },
   "lastKnownGood": {
     "version": "2.1.0-alpha.49",

@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Rozet Ver, sınıf düzeyleri ve alfabetik şube kutularıyla fotoğraflı panoya açılır. Öğrenci fotoğrafından her tıklamada bir rozet eklenir; tek kazanım × ile geri alınır, tarih otomatik tutulur.; Fotoğraflı şube turnuva PDF’si şube başına tek sayfadır; fotoğraf altında özgün rozetler ve adetleri bulunur. A4/A3, ad/numara/başarı sırası ve ayrı isim-tarih çıktısı seçilebilir.; Pano pencereye sığar; kalabalık şubeler sayfalanır. Önceki toplu işlem ve kayıtlı liste/PDF akışları korunur.",
-    "version": "2.1.0-alpha.148",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.148-staging/Akademix-Setup-2.1.0-alpha.148.exe",
-    "sha256": "638dbff0265be216db2037c9aab91682df73187a4ed2b86bf5aff14323d37785",
+    "notes": "Sınıf/şube satırları ve öğrenci kartları sıkılaştırıldı; her rozet tıklaması simge hareketi, renk ve +1 tepkisi verir.; Rozetler açık Kaydet ile kalıcılaşır; yeni tarihin ilk kaydı onaylanır, aynı gün tekrarında sorulmaz. Hatalı kayıtta taslak korunur.; Sınıf ve Şubeler sekmesinde verilen rozetler açılır; Genel Turnuva PDF tüm sınıf/şubeleri başarı sırasıyla birleştirir, sınıf düzeyi seçilebilir.",
+    "version": "2.1.0-alpha.149",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.149-staging/Akademix-Setup-2.1.0-alpha.149.exe",
+    "sha256": "2ffb6038cebd2a1d5ddde8bfa993cf9971581c9ed4267a706e1ad26cae370ef3",
     "targets": [
       "badges"
     ]
   },
   "releases": [
     {
-      "notes": "Rozet Ver, sınıf düzeyleri ve alfabetik şube kutularıyla fotoğraflı panoya açılır. Öğrenci fotoğrafından her tıklamada bir rozet eklenir; tek kazanım × ile geri alınır, tarih otomatik tutulur.; Fotoğraflı şube turnuva PDF’si şube başına tek sayfadır; fotoğraf altında özgün rozetler ve adetleri bulunur. A4/A3, ad/numara/başarı sırası ve ayrı isim-tarih çıktısı seçilebilir.; Pano pencereye sığar; kalabalık şubeler sayfalanır. Önceki toplu işlem ve kayıtlı liste/PDF akışları korunur.",
-      "version": "2.1.0-alpha.148",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.148-staging/Akademix-Setup-2.1.0-alpha.148.exe",
-      "sha256": "638dbff0265be216db2037c9aab91682df73187a4ed2b86bf5aff14323d37785",
+      "notes": "Sınıf/şube satırları ve öğrenci kartları sıkılaştırıldı; her rozet tıklaması simge hareketi, renk ve +1 tepkisi verir.; Rozetler açık Kaydet ile kalıcılaşır; yeni tarihin ilk kaydı onaylanır, aynı gün tekrarında sorulmaz. Hatalı kayıtta taslak korunur.; Sınıf ve Şubeler sekmesinde verilen rozetler açılır; Genel Turnuva PDF tüm sınıf/şubeleri başarı sırasıyla birleştirir, sınıf düzeyi seçilebilir.",
+      "version": "2.1.0-alpha.149",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.149-staging/Akademix-Setup-2.1.0-alpha.149.exe",
+      "sha256": "2ffb6038cebd2a1d5ddde8bfa993cf9971581c9ed4267a706e1ad26cae370ef3",
       "targets": [
         "badges"
       ]

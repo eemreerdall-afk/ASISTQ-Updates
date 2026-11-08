@@ -10,15 +10,24 @@
     ]
   },
   "published": {
-    "notes": "Ana sayfaya bütün şubeler ve rozet listelerinin aktif toplamlarından İlk 10 öğrenci paneli eklendi; öğrenci numaralarıyla ayırt edilir.; Toplu rozet PDF tabloları seçilen kapsamdaki rozet toplamına göre çoktan aza sıralanır.; Ortak veya seçili branş/panel güncellemeleri için hedefleme altyapısı eklendi. Bu sürüm bir defalık ortak geçiştir; sonraki panel yayınları ilgili hesaplara önerilir.",
-    "version": "2.1.0-alpha.147",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.147-staging/Akademix-Setup-2.1.0-alpha.147.exe",
-    "sha256": "af60228ad3171c5755b3e250ffad7e91b5ba38a1bca791d973d6793262db9a34",
+    "notes": "Rozet Ver, sınıf düzeyleri ve alfabetik şube kutularıyla fotoğraflı panoya açılır. Öğrenci fotoğrafından her tıklamada bir rozet eklenir; tek kazanım × ile geri alınır, tarih otomatik tutulur.; Fotoğraflı şube turnuva PDF’si şube başına tek sayfadır; fotoğraf altında özgün rozetler ve adetleri bulunur. A4/A3, ad/numara/başarı sırası ve ayrı isim-tarih çıktısı seçilebilir.; Pano pencereye sığar; kalabalık şubeler sayfalanır. Önceki toplu işlem ve kayıtlı liste/PDF akışları korunur.",
+    "version": "2.1.0-alpha.148",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.148-staging/Akademix-Setup-2.1.0-alpha.148.exe",
+    "sha256": "638dbff0265be216db2037c9aab91682df73187a4ed2b86bf5aff14323d37785",
     "targets": [
-      "all"
+      "badges"
     ]
   },
   "releases": [
+    {
+      "notes": "Rozet Ver, sınıf düzeyleri ve alfabetik şube kutularıyla fotoğraflı panoya açılır. Öğrenci fotoğrafından her tıklamada bir rozet eklenir; tek kazanım × ile geri alınır, tarih otomatik tutulur.; Fotoğraflı şube turnuva PDF’si şube başına tek sayfadır; fotoğraf altında özgün rozetler ve adetleri bulunur. A4/A3, ad/numara/başarı sırası ve ayrı isim-tarih çıktısı seçilebilir.; Pano pencereye sığar; kalabalık şubeler sayfalanır. Önceki toplu işlem ve kayıtlı liste/PDF akışları korunur.",
+      "version": "2.1.0-alpha.148",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.148-staging/Akademix-Setup-2.1.0-alpha.148.exe",
+      "sha256": "638dbff0265be216db2037c9aab91682df73187a4ed2b86bf5aff14323d37785",
+      "targets": [
+        "badges"
+      ]
+    },
     {
       "notes": "Ana sayfaya bütün şubeler ve rozet listelerinin aktif toplamlarından İlk 10 öğrenci paneli eklendi; öğrenci numaralarıyla ayırt edilir.; Toplu rozet PDF tabloları seçilen kapsamdaki rozet toplamına göre çoktan aza sıralanır.; Ortak veya seçili branş/panel güncellemeleri için hedefleme altyapısı eklendi. Bu sürüm bir defalık ortak geçiştir; sonraki panel yayınları ilgili hesaplara önerilir.",
       "version": "2.1.0-alpha.147",

@@ -10,15 +10,24 @@
     ]
   },
   "published": {
-    "notes": "Sınıf/şube satırları ve öğrenci kartları sıkılaştırıldı; her rozet tıklaması simge hareketi, renk ve +1 tepkisi verir.; Rozetler açık Kaydet ile kalıcılaşır; yeni tarihin ilk kaydı onaylanır, aynı gün tekrarında sorulmaz. Hatalı kayıtta taslak korunur.; Sınıf ve Şubeler sekmesinde verilen rozetler açılır; Genel Turnuva PDF tüm sınıf/şubeleri başarı sırasıyla birleştirir, sınıf düzeyi seçilebilir.",
-    "version": "2.1.0-alpha.149",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.149-staging/Akademix-Setup-2.1.0-alpha.149.exe",
-    "sha256": "2ffb6038cebd2a1d5ddde8bfa993cf9971581c9ed4267a706e1ad26cae370ef3",
+    "notes": "Öğrenci listeleri isteğe bağlı okul numarasıyla önizlemeli güncellenir; benzer isimler kendiliğinden taşınmaz. Öğrenciler alanı sadeleştirildi, dosyadan sütun seçimi ve görsel okuma eklendi.",
+    "version": "2.1.0-alpha.150",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.150-staging/Akademix-Setup-2.1.0-alpha.150.exe",
+    "sha256": "2bcc56b60a82127971c19fce8cc0b471483ef4f0728d9093c81c973016226fa5",
     "targets": [
-      "badges"
+      "music"
     ]
   },
   "releases": [
+    {
+      "notes": "Öğrenci listeleri isteğe bağlı okul numarasıyla önizlemeli güncellenir; benzer isimler kendiliğinden taşınmaz. Öğrenciler alanı sadeleştirildi, dosyadan sütun seçimi ve görsel okuma eklendi.",
+      "version": "2.1.0-alpha.150",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.150-staging/Akademix-Setup-2.1.0-alpha.150.exe",
+      "sha256": "2bcc56b60a82127971c19fce8cc0b471483ef4f0728d9093c81c973016226fa5",
+      "targets": [
+        "music"
+      ]
+    },
     {
       "notes": "Sınıf/şube satırları ve öğrenci kartları sıkılaştırıldı; her rozet tıklaması simge hareketi, renk ve +1 tepkisi verir.; Rozetler açık Kaydet ile kalıcılaşır; yeni tarihin ilk kaydı onaylanır, aynı gün tekrarında sorulmaz. Hatalı kayıtta taslak korunur.; Sınıf ve Şubeler sekmesinde verilen rozetler açılır; Genel Turnuva PDF tüm sınıf/şubeleri başarı sırasıyla birleştirir, sınıf düzeyi seçilebilir.",
       "version": "2.1.0-alpha.149",

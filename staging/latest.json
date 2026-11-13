@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Numara isteğe bağlı, kullanıcı onaylı öğrenci listesi güncelleme; dosyadan aktarım, sıkı öğrenci satırları ve sade dört bölümlü öğrenci yönetimi.",
-    "version": "2.1.0-alpha.152",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.152-staging/Akademix-Setup-2.1.0-alpha.152.exe",
-    "sha256": "05f60fcf199246914bdbbb8575af97fbd3a20629d3a9ed88e4ab679fa2651527",
+    "notes": "Sınıf öğrenci listeleri sayfa başına 25 satır gösterir; 25 üzerindeki öğrenciler sonraki sayfaya geçer.",
+    "version": "2.1.0-alpha.153",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.153-staging/Akademix-Setup-2.1.0-alpha.153.exe",
+    "sha256": "5cafa2c9568e31622d483b46eebc1bf04c1a380164af12f000da48add20206e1",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Numara isteğe bağlı, kullanıcı onaylı öğrenci listesi güncelleme; dosyadan aktarım, sıkı öğrenci satırları ve sade dört bölümlü öğrenci yönetimi.",
-      "version": "2.1.0-alpha.152",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.152-staging/Akademix-Setup-2.1.0-alpha.152.exe",
-      "sha256": "05f60fcf199246914bdbbb8575af97fbd3a20629d3a9ed88e4ab679fa2651527",
+      "notes": "Sınıf öğrenci listeleri sayfa başına 25 satır gösterir; 25 üzerindeki öğrenciler sonraki sayfaya geçer.",
+      "version": "2.1.0-alpha.153",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.153-staging/Akademix-Setup-2.1.0-alpha.153.exe",
+      "sha256": "5cafa2c9568e31622d483b46eebc1bf04c1a380164af12f000da48add20206e1",
       "targets": [
         "music"
       ]

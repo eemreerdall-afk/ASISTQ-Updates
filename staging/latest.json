@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Notlandırma tek ekranda: değişken kıstaslar, isteğe bağlı toplu100 veya takipten puanlama; sade yatay resmî not çizelgesi.",
-    "version": "2.1.0-alpha.155",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.155-staging/Akademix-Setup-2.1.0-alpha.155.exe",
-    "sha256": "2fe523cd1a7c3b0b272eaceae4d0cb7cf036e4ead9621337a1fc0ab807b775ad",
+    "notes": "Ders sayfası: ayrı saat notları, kalan işler ve küçük saat; isteğe bağlı80+20 ve okul logolu sade çizelge.",
+    "version": "2.1.0-alpha.156",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.156-staging/Akademix-Setup-2.1.0-alpha.156.exe",
+    "sha256": "4e03c27fc0725a09eafede0e8d3fd8ffed2df17aeabeab56403b2c83b948f5f6",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Notlandırma tek ekranda: değişken kıstaslar, isteğe bağlı toplu100 veya takipten puanlama; sade yatay resmî not çizelgesi.",
-      "version": "2.1.0-alpha.155",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.155-staging/Akademix-Setup-2.1.0-alpha.155.exe",
-      "sha256": "2fe523cd1a7c3b0b272eaceae4d0cb7cf036e4ead9621337a1fc0ab807b775ad",
+      "notes": "Ders sayfası: ayrı saat notları, kalan işler ve küçük saat; isteğe bağlı80+20 ve okul logolu sade çizelge.",
+      "version": "2.1.0-alpha.156",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.156-staging/Akademix-Setup-2.1.0-alpha.156.exe",
+      "sha256": "4e03c27fc0725a09eafede0e8d3fd8ffed2df17aeabeab56403b2c83b948f5f6",
       "targets": [
         "music"
       ]

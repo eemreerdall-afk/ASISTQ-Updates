@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Sınıf öğrenci listeleri sayfa başına 25 satır gösterir; 25 üzerindeki öğrenciler sonraki sayfaya geçer.",
-    "version": "2.1.0-alpha.153",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.153-staging/Akademix-Setup-2.1.0-alpha.153.exe",
-    "sha256": "5cafa2c9568e31622d483b46eebc1bf04c1a380164af12f000da48add20206e1",
+    "notes": "Ders Defterim: resmî program ve yıllık planlardan şube bazlı, ders saati ayrı defter takibi; mobil ve PC ortak hesap kaydı.",
+    "version": "2.1.0-alpha.154",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.154-staging/Akademix-Setup-2.1.0-alpha.154.exe",
+    "sha256": "262f7aa71e8fbd9add22099a6820434b14c4ce6b28a85f065f5f59ba882958c9",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Sınıf öğrenci listeleri sayfa başına 25 satır gösterir; 25 üzerindeki öğrenciler sonraki sayfaya geçer.",
-      "version": "2.1.0-alpha.153",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.153-staging/Akademix-Setup-2.1.0-alpha.153.exe",
-      "sha256": "5cafa2c9568e31622d483b46eebc1bf04c1a380164af12f000da48add20206e1",
+      "notes": "Ders Defterim: resmî program ve yıllık planlardan şube bazlı, ders saati ayrı defter takibi; mobil ve PC ortak hesap kaydı.",
+      "version": "2.1.0-alpha.154",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.154-staging/Akademix-Setup-2.1.0-alpha.154.exe",
+      "sha256": "262f7aa71e8fbd9add22099a6820434b14c4ce6b28a85f065f5f59ba882958c9",
       "targets": [
         "music"
       ]

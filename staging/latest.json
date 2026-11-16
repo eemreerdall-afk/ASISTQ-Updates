@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "ŞÖK Hazırlığı: kayıtlı müzik bilgileriyle kısa öğrenci görüşleri, öğretmen onayı, toplantı geçmişi ve temiz PDF/Word.",
-    "version": "2.1.0-alpha.157",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.157-staging/Akademix-Setup-2.1.0-alpha.157.exe",
-    "sha256": "c741d8f28f6f887b1b302190c97ba77b67f4267e41933e2363aa82b4e8c7c3c8",
+    "notes": "ŞÖK Hazırlığı: dar satırlı 25 kişilik liste, öğrenci kartı, ayrı görev/enstrüman dökümü ve sade yatay PDF/Word.",
+    "version": "2.1.0-alpha.158",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.158-staging/Akademix-Setup-2.1.0-alpha.158.exe",
+    "sha256": "27fd461de7b8d6ac34d451ff773fe4dd39e8bfb1edcdc317644b83b196316334",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "ŞÖK Hazırlığı: kayıtlı müzik bilgileriyle kısa öğrenci görüşleri, öğretmen onayı, toplantı geçmişi ve temiz PDF/Word.",
-      "version": "2.1.0-alpha.157",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.157-staging/Akademix-Setup-2.1.0-alpha.157.exe",
-      "sha256": "c741d8f28f6f887b1b302190c97ba77b67f4267e41933e2363aa82b4e8c7c3c8",
+      "notes": "ŞÖK Hazırlığı: dar satırlı 25 kişilik liste, öğrenci kartı, ayrı görev/enstrüman dökümü ve sade yatay PDF/Word.",
+      "version": "2.1.0-alpha.158",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.158-staging/Akademix-Setup-2.1.0-alpha.158.exe",
+      "sha256": "27fd461de7b8d6ac34d451ff773fe4dd39e8bfb1edcdc317644b83b196316334",
       "targets": [
         "music"
       ]

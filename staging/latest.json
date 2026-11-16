@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Ders sayfası: ayrı saat notları, kalan işler ve küçük saat; isteğe bağlı80+20 ve okul logolu sade çizelge.",
-    "version": "2.1.0-alpha.156",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.156-staging/Akademix-Setup-2.1.0-alpha.156.exe",
-    "sha256": "4e03c27fc0725a09eafede0e8d3fd8ffed2df17aeabeab56403b2c83b948f5f6",
+    "notes": "ŞÖK Hazırlığı: kayıtlı müzik bilgileriyle kısa öğrenci görüşleri, öğretmen onayı, toplantı geçmişi ve temiz PDF/Word.",
+    "version": "2.1.0-alpha.157",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.157-staging/Akademix-Setup-2.1.0-alpha.157.exe",
+    "sha256": "c741d8f28f6f887b1b302190c97ba77b67f4267e41933e2363aa82b4e8c7c3c8",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Ders sayfası: ayrı saat notları, kalan işler ve küçük saat; isteğe bağlı80+20 ve okul logolu sade çizelge.",
-      "version": "2.1.0-alpha.156",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.156-staging/Akademix-Setup-2.1.0-alpha.156.exe",
-      "sha256": "4e03c27fc0725a09eafede0e8d3fd8ffed2df17aeabeab56403b2c83b948f5f6",
+      "notes": "ŞÖK Hazırlığı: kayıtlı müzik bilgileriyle kısa öğrenci görüşleri, öğretmen onayı, toplantı geçmişi ve temiz PDF/Word.",
+      "version": "2.1.0-alpha.157",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.157-staging/Akademix-Setup-2.1.0-alpha.157.exe",
+      "sha256": "c741d8f28f6f887b1b302190c97ba77b67f4267e41933e2363aa82b4e8c7c3c8",
       "targets": [
         "music"
       ]

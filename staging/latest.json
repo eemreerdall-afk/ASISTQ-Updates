@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "ŞÖK Hazırlığı: dar satırlı 25 kişilik liste, öğrenci kartı, ayrı görev/enstrüman dökümü ve sade yatay PDF/Word.",
-    "version": "2.1.0-alpha.158",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.158-staging/Akademix-Setup-2.1.0-alpha.158.exe",
-    "sha256": "27fd461de7b8d6ac34d451ff773fe4dd39e8bfb1edcdc317644b83b196316334",
+    "notes": "ŞÖK: boş kapsamla açılış, gerçek konser/gösteri dökümü, merkezde öğrenci kartı ve kalıcı toplantı notları.",
+    "version": "2.1.0-alpha.159",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.159-staging/Akademix-Setup-2.1.0-alpha.159.exe",
+    "sha256": "17baa0bde592469b0abfc0ee205b823bad4d53b2434ae4c7b65ea95d1ba53174",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "ŞÖK Hazırlığı: dar satırlı 25 kişilik liste, öğrenci kartı, ayrı görev/enstrüman dökümü ve sade yatay PDF/Word.",
-      "version": "2.1.0-alpha.158",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.158-staging/Akademix-Setup-2.1.0-alpha.158.exe",
-      "sha256": "27fd461de7b8d6ac34d451ff773fe4dd39e8bfb1edcdc317644b83b196316334",
+      "notes": "ŞÖK: boş kapsamla açılış, gerçek konser/gösteri dökümü, merkezde öğrenci kartı ve kalıcı toplantı notları.",
+      "version": "2.1.0-alpha.159",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.159-staging/Akademix-Setup-2.1.0-alpha.159.exe",
+      "sha256": "17baa0bde592469b0abfc0ee205b823bad4d53b2434ae4c7b65ea95d1ba53174",
       "targets": [
         "music"
       ]

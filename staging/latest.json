@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "ŞÖK kartında koro üyeliği ve grup adı; PC/mobil ana ekranlarda ortak ve ders defteri tatillerinin kontrolü.",
-    "version": "2.1.0-alpha.160",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.160-staging/Akademix-Setup-2.1.0-alpha.160.exe",
-    "sha256": "5a13f5696a38fb60044e559ad70207d7a33fe39d70f13752a1503f4543872f3c",
+    "notes": "ŞÖK konser ve enstrüman dökümleri programın ortak gerçekleşme tarihi kuralını kullanır.",
+    "version": "2.1.0-alpha.161",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.161-staging/Akademix-Setup-2.1.0-alpha.161.exe",
+    "sha256": "763636380e6939f740bd6b670feeef06fc291fb13c053b5c13c2dae286cd0a4a",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "ŞÖK kartında koro üyeliği ve grup adı; PC/mobil ana ekranlarda ortak ve ders defteri tatillerinin kontrolü.",
-      "version": "2.1.0-alpha.160",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.160-staging/Akademix-Setup-2.1.0-alpha.160.exe",
-      "sha256": "5a13f5696a38fb60044e559ad70207d7a33fe39d70f13752a1503f4543872f3c",
+      "notes": "ŞÖK konser ve enstrüman dökümleri programın ortak gerçekleşme tarihi kuralını kullanır.",
+      "version": "2.1.0-alpha.161",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.161-staging/Akademix-Setup-2.1.0-alpha.161.exe",
+      "sha256": "763636380e6939f740bd6b670feeef06fc291fb13c053b5c13c2dae286cd0a4a",
       "targets": [
         "music"
       ]

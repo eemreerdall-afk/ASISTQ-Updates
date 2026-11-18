@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "ŞÖK konser ve enstrüman dökümleri programın ortak gerçekleşme tarihi kuralını kullanır.",
-    "version": "2.1.0-alpha.161",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.161-staging/Akademix-Setup-2.1.0-alpha.161.exe",
-    "sha256": "763636380e6939f740bd6b670feeef06fc291fb13c053b5c13c2dae286cd0a4a",
+    "notes": "Notlandırma ve öğrenci aramasındaki tekrar eden işlemler azaltıldı.",
+    "version": "2.1.0-alpha.162",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.162-staging/Akademix-Setup-2.1.0-alpha.162.exe",
+    "sha256": "df6b3bb767e9347597223047d37f4232cdd335f3dac510ed755ce901f94d20d5",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "ŞÖK konser ve enstrüman dökümleri programın ortak gerçekleşme tarihi kuralını kullanır.",
-      "version": "2.1.0-alpha.161",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.161-staging/Akademix-Setup-2.1.0-alpha.161.exe",
-      "sha256": "763636380e6939f740bd6b670feeef06fc291fb13c053b5c13c2dae286cd0a4a",
+      "notes": "Notlandırma ve öğrenci aramasındaki tekrar eden işlemler azaltıldı.",
+      "version": "2.1.0-alpha.162",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.162-staging/Akademix-Setup-2.1.0-alpha.162.exe",
+      "sha256": "df6b3bb767e9347597223047d37f4232cdd335f3dac510ed755ce901f94d20d5",
       "targets": [
         "music"
       ]

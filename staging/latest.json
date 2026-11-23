@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Ortaokul müzik süreç değerlendirmesi ve 1. uygulamalı sınav ayrı çalışma alanlarında.",
-    "version": "2.1.0-alpha.167",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.167-staging/Akademix-Setup-2.1.0-alpha.167.exe",
-    "sha256": "956ac592de67204f7ea512c405bc047c58e233c966f0c2551d2443b31dfadbc4",
+    "notes": "Veli Aramaları içinde ortaokul şube takibi.",
+    "version": "2.1.0-alpha.168",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.168-staging/Akademix-Setup-2.1.0-alpha.168.exe",
+    "sha256": "ccf025cde1b92d598b43d4ce82ea0eb5af37276d61964d54e34683239b635c1d",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Ortaokul müzik süreç değerlendirmesi ve 1. uygulamalı sınav ayrı çalışma alanlarında.",
-      "version": "2.1.0-alpha.167",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.167-staging/Akademix-Setup-2.1.0-alpha.167.exe",
-      "sha256": "956ac592de67204f7ea512c405bc047c58e233c966f0c2551d2443b31dfadbc4",
+      "notes": "Veli Aramaları içinde ortaokul şube takibi.",
+      "version": "2.1.0-alpha.168",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.168-staging/Akademix-Setup-2.1.0-alpha.168.exe",
+      "sha256": "ccf025cde1b92d598b43d4ce82ea0eb5af37276d61964d54e34683239b635c1d",
       "targets": [
         "music"
       ]

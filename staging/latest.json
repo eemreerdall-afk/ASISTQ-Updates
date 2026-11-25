@@ -10,15 +10,24 @@
     ]
   },
   "published": {
-    "notes": "Veli Aramaları içinde ortaokul şube takibi.",
-    "version": "2.1.0-alpha.168",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.168-staging/Akademix-Setup-2.1.0-alpha.168.exe",
-    "sha256": "ccf025cde1b92d598b43d4ce82ea0eb5af37276d61964d54e34683239b635c1d",
+    "notes": "Okul Yönetimi: deneme sınavı planlama ve arşiv, gözetmen uygunluğu, okul başlıklı Excel ve açıklama PDF’si.",
+    "version": "2.1.0-alpha.169",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.169-staging/Akademix-Setup-2.1.0-alpha.169.exe",
+    "sha256": "ddc3c7939fb4a54fe67271ba750e407df8de1eb40ea69a2df9a1fd078c378272",
     "targets": [
-      "music"
+      "director"
     ]
   },
   "releases": [
+    {
+      "notes": "Okul Yönetimi: deneme sınavı planlama ve arşiv, gözetmen uygunluğu, okul başlıklı Excel ve açıklama PDF’si.",
+      "version": "2.1.0-alpha.169",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.169-staging/Akademix-Setup-2.1.0-alpha.169.exe",
+      "sha256": "ddc3c7939fb4a54fe67271ba750e407df8de1eb40ea69a2df9a1fd078c378272",
+      "targets": [
+        "director"
+      ]
+    },
     {
       "notes": "Veli Aramaları içinde ortaokul şube takibi.",
       "version": "2.1.0-alpha.168",

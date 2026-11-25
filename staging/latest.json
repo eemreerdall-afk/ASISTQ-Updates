@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Müzik Notlandırma: dönem, sınav, ders etkinliklerine katılım ve performans seçimi. Şube çizelgelerine öğrenme çıktısı ve görev bilgisi eklenir.",
-    "version": "2.1.0-alpha.170",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.170-staging/Akademix-Setup-2.1.0-alpha.170.exe",
-    "sha256": "d2f49bc79d3a89dffcc82981013abd1e83322093a4fd891e5ec9f5ca64cb88dc",
+    "notes": "Müzik Notlandırma: kademe ve toplu puan, otomatik değerlendirme alanları, isteğe bağlı 80 + 20 ve hızlı toplu karne.",
+    "version": "2.1.0-alpha.171",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.171-staging/Akademix-Setup-2.1.0-alpha.171.exe",
+    "sha256": "729738f442673ec20261dff36802a99bb70d59a6d120643f78ea3c05d4884d5c",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Müzik Notlandırma: dönem, sınav, ders etkinliklerine katılım ve performans seçimi. Şube çizelgelerine öğrenme çıktısı ve görev bilgisi eklenir.",
-      "version": "2.1.0-alpha.170",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.170-staging/Akademix-Setup-2.1.0-alpha.170.exe",
-      "sha256": "d2f49bc79d3a89dffcc82981013abd1e83322093a4fd891e5ec9f5ca64cb88dc",
+      "notes": "Müzik Notlandırma: kademe ve toplu puan, otomatik değerlendirme alanları, isteğe bağlı 80 + 20 ve hızlı toplu karne.",
+      "version": "2.1.0-alpha.171",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.171-staging/Akademix-Setup-2.1.0-alpha.171.exe",
+      "sha256": "729738f442673ec20261dff36802a99bb70d59a6d120643f78ea3c05d4884d5c",
       "targets": [
         "music"
       ]

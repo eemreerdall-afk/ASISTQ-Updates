@@ -10,15 +10,24 @@
     ]
   },
   "published": {
-    "notes": "Okul Yönetimi: deneme sınavı planlama ve arşiv, gözetmen uygunluğu, okul başlıklı Excel ve açıklama PDF’si.",
-    "version": "2.1.0-alpha.169",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.169-staging/Akademix-Setup-2.1.0-alpha.169.exe",
-    "sha256": "ddc3c7939fb4a54fe67271ba750e407df8de1eb40ea69a2df9a1fd078c378272",
+    "notes": "Müzik Notlandırma: dönem, sınav, ders etkinliklerine katılım ve performans seçimi. Şube çizelgelerine öğrenme çıktısı ve görev bilgisi eklenir.",
+    "version": "2.1.0-alpha.170",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.170-staging/Akademix-Setup-2.1.0-alpha.170.exe",
+    "sha256": "d2f49bc79d3a89dffcc82981013abd1e83322093a4fd891e5ec9f5ca64cb88dc",
     "targets": [
-      "director"
+      "music"
     ]
   },
   "releases": [
+    {
+      "notes": "Müzik Notlandırma: dönem, sınav, ders etkinliklerine katılım ve performans seçimi. Şube çizelgelerine öğrenme çıktısı ve görev bilgisi eklenir.",
+      "version": "2.1.0-alpha.170",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.170-staging/Akademix-Setup-2.1.0-alpha.170.exe",
+      "sha256": "d2f49bc79d3a89dffcc82981013abd1e83322093a4fd891e5ec9f5ca64cb88dc",
+      "targets": [
+        "music"
+      ]
+    },
     {
       "notes": "Okul Yönetimi: deneme sınavı planlama ve arşiv, gözetmen uygunluğu, okul başlıklı Excel ve açıklama PDF’si.",
       "version": "2.1.0-alpha.169",
@@ -26,15 +35,6 @@
       "sha256": "ddc3c7939fb4a54fe67271ba750e407df8de1eb40ea69a2df9a1fd078c378272",
       "targets": [
         "director"
-      ]
-    },
-    {
-      "notes": "Veli Aramaları içinde ortaokul şube takibi.",
-      "version": "2.1.0-alpha.168",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.168-staging/Akademix-Setup-2.1.0-alpha.168.exe",
-      "sha256": "ccf025cde1b92d598b43d4ce82ea0eb5af37276d61964d54e34683239b635c1d",
-      "targets": [
-        "music"
       ]
     },
     {

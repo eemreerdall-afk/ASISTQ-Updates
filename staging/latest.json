@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Müzik Notlandırma: kademe ve toplu puan, otomatik değerlendirme alanları, isteğe bağlı 80 + 20 ve hızlı toplu karne.",
-    "version": "2.1.0-alpha.171",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.171-staging/Akademix-Setup-2.1.0-alpha.171.exe",
-    "sha256": "729738f442673ec20261dff36802a99bb70d59a6d120643f78ea3c05d4884d5c",
+    "notes": "Müzik not çizelgesinde okul ve müdür bilgileri kademeye göre doğru okunur.",
+    "version": "2.1.0-alpha.172",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.172-staging/Akademix-Setup-2.1.0-alpha.172.exe",
+    "sha256": "0a21244b00f175501d0c1fdaa02919cb74cc34e8c95a8146ba10ee796290a4f2",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Müzik Notlandırma: kademe ve toplu puan, otomatik değerlendirme alanları, isteğe bağlı 80 + 20 ve hızlı toplu karne.",
-      "version": "2.1.0-alpha.171",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.171-staging/Akademix-Setup-2.1.0-alpha.171.exe",
-      "sha256": "729738f442673ec20261dff36802a99bb70d59a6d120643f78ea3c05d4884d5c",
+      "notes": "Müzik not çizelgesinde okul ve müdür bilgileri kademeye göre doğru okunur.",
+      "version": "2.1.0-alpha.172",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.172-staging/Akademix-Setup-2.1.0-alpha.172.exe",
+      "sha256": "0a21244b00f175501d0c1fdaa02919cb74cc34e8c95a8146ba10ee796290a4f2",
       "targets": [
         "music"
       ]

@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Müzik not çizelgesinde okul ve müdür bilgileri kademeye göre doğru okunur.",
-    "version": "2.1.0-alpha.172",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.172-staging/Akademix-Setup-2.1.0-alpha.172.exe",
-    "sha256": "0a21244b00f175501d0c1fdaa02919cb74cc34e8c95a8146ba10ee796290a4f2",
+    "notes": "Öğrenciler bölümünde veli arama takibi.",
+    "version": "2.1.0-alpha.173",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.173-staging/Akademix-Setup-2.1.0-alpha.173.exe",
+    "sha256": "ccd6a6dd612478e418931a2b1f31b2673b8e0d508bc56fb5f5304bedeb547380",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Müzik not çizelgesinde okul ve müdür bilgileri kademeye göre doğru okunur.",
-      "version": "2.1.0-alpha.172",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.172-staging/Akademix-Setup-2.1.0-alpha.172.exe",
-      "sha256": "0a21244b00f175501d0c1fdaa02919cb74cc34e8c95a8146ba10ee796290a4f2",
+      "notes": "Öğrenciler bölümünde veli arama takibi.",
+      "version": "2.1.0-alpha.173",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.173-staging/Akademix-Setup-2.1.0-alpha.173.exe",
+      "sha256": "ccd6a6dd612478e418931a2b1f31b2673b8e0d508bc56fb5f5304bedeb547380",
       "targets": [
         "music"
       ]

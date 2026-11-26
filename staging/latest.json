@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Ders Defterim: sınıf ve tarihe göre toplu işaretleme.",
-    "version": "2.1.0-alpha.174",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.174-staging/Akademix-Setup-2.1.0-alpha.174.exe",
-    "sha256": "24120e354139586952419cedffcb37c38761ab042d6a0a9ec1cb3d114cb088a0",
+    "notes": "Ders Defterim: tek şube, birkaç şube veya tüm sınıf düzeyi.",
+    "version": "2.1.0-alpha.175",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.175-staging/Akademix-Setup-2.1.0-alpha.175.exe",
+    "sha256": "ca3620797219dc202bb53fdcf89ceba63f95055070bd8dcafac232c37d872c32",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Ders Defterim: sınıf ve tarihe göre toplu işaretleme.",
-      "version": "2.1.0-alpha.174",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.174-staging/Akademix-Setup-2.1.0-alpha.174.exe",
-      "sha256": "24120e354139586952419cedffcb37c38761ab042d6a0a9ec1cb3d114cb088a0",
+      "notes": "Ders Defterim: tek şube, birkaç şube veya tüm sınıf düzeyi.",
+      "version": "2.1.0-alpha.175",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.175-staging/Akademix-Setup-2.1.0-alpha.175.exe",
+      "sha256": "ca3620797219dc202bb53fdcf89ceba63f95055070bd8dcafac232c37d872c32",
       "targets": [
         "music"
       ]

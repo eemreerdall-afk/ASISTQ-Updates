@@ -10,20 +10,20 @@
     ]
   },
   "published": {
-    "notes": "Öğrenciler bölümünde veli arama takibi.",
-    "version": "2.1.0-alpha.173",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.173-staging/Akademix-Setup-2.1.0-alpha.173.exe",
-    "sha256": "ccd6a6dd612478e418931a2b1f31b2673b8e0d508bc56fb5f5304bedeb547380",
+    "notes": "Ders Defterim: sınıf ve tarihe göre toplu işaretleme.",
+    "version": "2.1.0-alpha.174",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.174-staging/Akademix-Setup-2.1.0-alpha.174.exe",
+    "sha256": "24120e354139586952419cedffcb37c38761ab042d6a0a9ec1cb3d114cb088a0",
     "targets": [
       "music"
     ]
   },
   "releases": [
     {
-      "notes": "Öğrenciler bölümünde veli arama takibi.",
-      "version": "2.1.0-alpha.173",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.173-staging/Akademix-Setup-2.1.0-alpha.173.exe",
-      "sha256": "ccd6a6dd612478e418931a2b1f31b2673b8e0d508bc56fb5f5304bedeb547380",
+      "notes": "Ders Defterim: sınıf ve tarihe göre toplu işaretleme.",
+      "version": "2.1.0-alpha.174",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.174-staging/Akademix-Setup-2.1.0-alpha.174.exe",
+      "sha256": "24120e354139586952419cedffcb37c38761ab042d6a0a9ec1cb3d114cb088a0",
       "targets": [
         "music"
       ]

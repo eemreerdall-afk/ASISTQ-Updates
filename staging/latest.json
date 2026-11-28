@@ -1,24 +1,33 @@
 {
   "schema": 2,
   "latest": {
-    "notes": "Ana sayfaya bütün şubeler ve rozet listelerinin aktif toplamlarından İlk 10 öğrenci paneli eklendi; öğrenci numaralarıyla ayırt edilir.; Toplu rozet PDF tabloları seçilen kapsamdaki rozet toplamına göre çoktan aza sıralanır.; Ortak veya seçili branş/panel güncellemeleri için hedefleme altyapısı eklendi. Bu sürüm bir defalık ortak geçiştir; sonraki panel yayınları ilgili hesaplara önerilir.",
-    "version": "2.1.0-alpha.147",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.147-staging/Akademix-Setup-2.1.0-alpha.147.exe",
-    "sha256": "af60228ad3171c5755b3e250ffad7e91b5ba38a1bca791d973d6793262db9a34",
+    "notes": "Rozet Merkezi ve ortak üst çubuk görünümü yenilendi.",
+    "version": "2.1.0-alpha.177",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.177-staging/Akademix-Setup-2.1.0-alpha.177.exe",
+    "sha256": "b9d93371f483e8881911d6bdf6302289dc5090131e737ff9bcb35c3e867febac",
     "targets": [
       "all"
     ]
   },
   "published": {
-    "notes": "Lise için rubrik ve birleşik PDF çıktıları.",
-    "version": "2.1.0-alpha.176",
-    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.176-staging/Akademix-Setup-2.1.0-alpha.176.exe",
-    "sha256": "0643f928d9b6165cd46004c3f69f4a04029e8a437860328c6ef3d7d9388b3d35",
+    "notes": "Rozet Merkezi ve ortak üst çubuk görünümü yenilendi.",
+    "version": "2.1.0-alpha.177",
+    "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.177-staging/Akademix-Setup-2.1.0-alpha.177.exe",
+    "sha256": "b9d93371f483e8881911d6bdf6302289dc5090131e737ff9bcb35c3e867febac",
     "targets": [
-      "music"
+      "all"
     ]
   },
   "releases": [
+    {
+      "notes": "Rozet Merkezi ve ortak üst çubuk görünümü yenilendi.",
+      "version": "2.1.0-alpha.177",
+      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.177-staging/Akademix-Setup-2.1.0-alpha.177.exe",
+      "sha256": "b9d93371f483e8881911d6bdf6302289dc5090131e737ff9bcb35c3e867febac",
+      "targets": [
+        "all"
+      ]
+    },
     {
       "notes": "Lise için rubrik ve birleşik PDF çıktıları.",
       "version": "2.1.0-alpha.176",
@@ -44,15 +53,6 @@
       "sha256": "2ffb6038cebd2a1d5ddde8bfa993cf9971581c9ed4267a706e1ad26cae370ef3",
       "targets": [
         "badges"
-      ]
-    },
-    {
-      "notes": "Ana sayfaya bütün şubeler ve rozet listelerinin aktif toplamlarından İlk 10 öğrenci paneli eklendi; öğrenci numaralarıyla ayırt edilir.; Toplu rozet PDF tabloları seçilen kapsamdaki rozet toplamına göre çoktan aza sıralanır.; Ortak veya seçili branş/panel güncellemeleri için hedefleme altyapısı eklendi. Bu sürüm bir defalık ortak geçiştir; sonraki panel yayınları ilgili hesaplara önerilir.",
-      "version": "2.1.0-alpha.147",
-      "url": "https://github.com/eemreerdall-afk/ASISTQ-Updates/releases/download/v2.1.0-alpha.147-staging/Akademix-Setup-2.1.0-alpha.147.exe",
-      "sha256": "af60228ad3171c5755b3e250ffad7e91b5ba38a1bca791d973d6793262db9a34",
-      "targets": [
-        "all"
       ]
     }
   ],
